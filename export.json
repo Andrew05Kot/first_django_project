@@ -1,0 +1,6904 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57 93a4d346",
+  "osm3s": {
+    "timestamp_osm_base": "2021-12-20T10:11:24Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 254899859,
+      "lat": 48.2801121,
+      "lon": 25.9689291,
+      "tags": {
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_80": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Вікав",
+        "name:en": "Vikav"
+      }
+    },
+    {
+      "type": "node",
+      "id": 254901556,
+      "lat": 48.2426906,
+      "lon": 25.9673479,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "ANP",
+        "name": "ANP",
+        "operator": "ANP"
+      }
+    },
+    {
+      "type": "node",
+      "id": 274838884,
+      "lat": 48.3207576,
+      "lon": 25.9460137,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "ОККО",
+        "brand:en": "OKKO",
+        "brand:wikidata": "Q7072617",
+        "brand:wikipedia": "en:OKKO",
+        "name": "ОККО",
+        "name:en": "OKKO",
+        "operator": "Окко"
+      }
+    },
+    {
+      "type": "node",
+      "id": 275071585,
+      "lat": 48.3244728,
+      "lon": 25.9305486,
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 277269082,
+      "lat": 48.2627016,
+      "lon": 25.9482802,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "WOG",
+        "name": "WOG",
+        "opening_hours": "24/7",
+        "operator": "WOG",
+        "owner": "ПАТ \"КонтинентНафтоТрейд\"",
+        "website": "https://wog.ua/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 289045245,
+      "lat": 48.4462472,
+      "lon": 25.2897244,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "CHIPO",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "name": "Chipo",
+        "opening_hours": "24/7",
+        "operator": "ТОВ \"ПОДІЛЛЯНАФТОЗБУТ\"",
+        "ref": "48",
+        "shop": "no",
+        "website": "https://chipo.ua/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 370529535,
+      "lat": 48.2759667,
+      "lon": 26.066312,
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 370530113,
+      "lat": 48.2676772,
+      "lon": 25.9942781,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Амік",
+        "name:en": "Amik",
+        "name:uk": "Амік"
+      }
+    },
+    {
+      "type": "node",
+      "id": 370530413,
+      "lat": 48.256047,
+      "lon": 25.9723641,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "WOG",
+        "name": "WOG",
+        "opening_hours": "24/7",
+        "operator": "WOG",
+        "owner": "ПАТ \"КонтинентНафтоТрейд\"",
+        "website": "https://wog.ua/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 370531170,
+      "lat": 48.0094933,
+      "lon": 26.0418793,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "WOG",
+        "operator": "WOG"
+      }
+    },
+    {
+      "type": "node",
+      "id": 389980636,
+      "lat": 47.9775733,
+      "lon": 26.4321649,
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 781777767,
+      "lat": 48.6704935,
+      "lon": 25.4771753,
+      "tags": {
+        "amenity": "fuel",
+        "contact:facebook": "https://www.facebook.com/VT-petroleum-475382439623125",
+        "contact:instagram": "vt__petroleum",
+        "name": "VT petroleum",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 781777772,
+      "lat": 48.675939,
+      "lon": 25.4919123,
+      "tags": {
+        "addr:housenumber": "7а",
+        "amenity": "fuel",
+        "brand": "ОККО",
+        "fuel:diesel": "yes",
+        "fuel:octane_91": "yes",
+        "fuel:octane_95": "yes",
+        "name": "ОККО",
+        "opening_hours": "24/7",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 919419391,
+      "lat": 48.6776284,
+      "lon": 26.5979882,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Socar",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "internet_access": "wlan",
+        "opening_hours": "24/7",
+        "operator": "Socar",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 942042254,
+      "lat": 48.2665998,
+      "lon": 25.9614082,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Укрнафта",
+        "fuel:diesel": "yes",
+        "fuel:octane_80": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Укрнафта",
+        "opening_hours": "24/7",
+        "toilets": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1029733066,
+      "lat": 48.2551457,
+      "lon": 25.92951,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Укрнафта",
+        "fuel:diesel": "yes",
+        "fuel:octane_80": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Укрнафта",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1159047951,
+      "lat": 48.2915071,
+      "lon": 25.9666358,
+      "tags": {
+        "amenity": "fuel",
+        "name": "ЮА",
+        "name:en": "Ya",
+        "name:uk": "ЮА",
+        "operator": "Вема"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1239286952,
+      "lat": 48.2520155,
+      "lon": 25.9335387,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "ANP",
+        "name": "ANP",
+        "name:uk": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1239286955,
+      "lat": 48.2515239,
+      "lon": 25.9422297,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Shell",
+        "operator": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1330911837,
+      "lat": 48.3457697,
+      "lon": 25.8615294,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Vizit"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1330911842,
+      "lat": 48.5133254,
+      "lon": 25.7852854,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Авіас",
+        "name:ru": "Авиас",
+        "name:uk": "Авіас",
+        "operator": "АЗС Приват"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1330911883,
+      "lat": 48.6169484,
+      "lon": 25.7436269,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Мавекс"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1330911947,
+      "lat": 48.3511228,
+      "lon": 25.8382264,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "ANP",
+        "name": "ANP"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1330912054,
+      "lat": 48.5425851,
+      "lon": 25.7977176,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Інтар"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1330912061,
+      "lat": 48.3983951,
+      "lon": 25.7888893,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Фортуна",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1330912070,
+      "lat": 48.4663953,
+      "lon": 25.7676224,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Stels",
+        "email": "stels@gmail.com",
+        "name": "Stels",
+        "opening_hours": "24/7",
+        "operator": "ТОВ \"СТЕЛС ОЙЛ ГРУП\"",
+        "phone": "+38(050)585-33-33",
+        "ref": "07",
+        "website": "https://stels-oil.com.ua/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1330912072,
+      "lat": 48.4548556,
+      "lon": 25.7643903,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "ANP",
+        "name": "ANP"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1330912117,
+      "lat": 48.3457554,
+      "lon": 25.8597082,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Укрнафта",
+        "name": "Укрнафта"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1330912125,
+      "lat": 48.4198416,
+      "lon": 25.7706111,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Колвик"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1364828275,
+      "lat": 48.2739295,
+      "lon": 25.9195784,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "ANP",
+        "fuel:diesel": "yes",
+        "fuel:octane_80": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "ANP",
+        "shop": "convenience",
+        "toilets": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1408946301,
+      "lat": 48.253428,
+      "lon": 25.1974494,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "ANP",
+        "name": "ANP"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1408946315,
+      "lat": 48.31054,
+      "lon": 25.1196581,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "WOG",
+        "name": "WOG",
+        "opening_hours": "24/7",
+        "operator": "WOG",
+        "owner": "ПАТ \"КонтинентНафтоТрейд\"",
+        "website": "https://wog.ua/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1408946321,
+      "lat": 48.553659,
+      "lon": 25.0531321,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Авіас"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1408946328,
+      "lat": 48.4765263,
+      "lon": 25.3888382,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "WOG",
+        "name": "БРСМ",
+        "operator": "БРСМ-Нафта"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1408946331,
+      "lat": 48.2485434,
+      "lon": 25.1635991,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Захід"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1408946333,
+      "lat": 48.3636848,
+      "lon": 25.7323723,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Stels",
+        "email": "stels@gmail.com",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Stels",
+        "opening_hours": "24/7",
+        "operator": "ТОВ \"СТЕЛС ОЙЛ ГРУП\"",
+        "phone": "+38(050)585-33-33",
+        "ref": "08",
+        "shop": "yes",
+        "website": "https://stels-oil.com.ua/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1408946334,
+      "lat": 48.4605711,
+      "lon": 25.5339205,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Захід"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1408946337,
+      "lat": 48.3566423,
+      "lon": 25.80315,
+      "tags": {
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Колвік",
+        "name:ru": "Колвик"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1408946340,
+      "lat": 48.4279564,
+      "lon": 25.6114885,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Лукойл",
+        "fuel:diesel": "yes",
+        "fuel:octane_80": "yes",
+        "fuel:octane_91": "no",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Лукойл"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1408946342,
+      "lat": 48.3072359,
+      "lon": 25.0476839,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Люіса",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1408946347,
+      "lat": 48.202289,
+      "lon": 25.4290068,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Мавекс"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1408946356,
+      "lat": 48.459472,
+      "lon": 25.5357397,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "ОККО",
+        "name": "ОККО",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1408946366,
+      "lat": 48.2131295,
+      "lon": 25.8127206,
+      "tags": {
+        "amenity": "fuel",
+        "name": "ЮА",
+        "name:en": "YA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1408946370,
+      "lat": 48.3576185,
+      "lon": 25.7958842,
+      "tags": {
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Ya",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1408946385,
+      "lat": 48.4756719,
+      "lon": 25.3224295,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Укрнафта",
+        "name": "Укрнафта"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1408946631,
+      "lat": 48.2324732,
+      "lon": 25.1200833,
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1408946700,
+      "lat": 48.3758294,
+      "lon": 25.6806117,
+      "tags": {
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_80": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "OkOil",
+        "operator": "Жентол"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1408946720,
+      "lat": 48.3868904,
+      "lon": 25.6663051,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "УКР-ПЕТРОЛЬ",
+        "email": "ukrpetrol@gmail.com",
+        "name": "Укр-Петроль",
+        "name:en": "Ukr-Petrol",
+        "opening_hours": "24/7",
+        "operator": "ПП \"Укр-Петроль\"",
+        "ref": "A",
+        "website": "https://ukr-petrol.com.ua/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1408946730,
+      "lat": 48.4310252,
+      "lon": 25.6035163,
+      "tags": {
+        "amenity": "fuel",
+        "fuel:octane_80": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Захід",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1408946736,
+      "lat": 48.472591,
+      "lon": 25.3051402,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "WOG",
+        "fuel:diesel": "yes",
+        "fuel:octane_80": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "WOG",
+        "operator": "WOG"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1408946738,
+      "lat": 48.4779252,
+      "lon": 25.2566041,
+      "tags": {
+        "addr:city": "Хлібичин",
+        "addr:housenumber": "39",
+        "addr:street": "Жовтнева вулиця",
+        "amenity": "fuel",
+        "brand": "ОККО",
+        "fuel:diesel": "yes",
+        "fuel:lpg": "yes",
+        "fuel:octane_80": "yes",
+        "fuel:octane_91": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "ОККО",
+        "wheelchair": "limited",
+        "wheelchair:description": "безперешкодний доступ до приміщення АЗК людям в інвалідних візках, однак немає окремого пристосованого WC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1430947887,
+      "lat": 48.2996414,
+      "lon": 25.9428225,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "УКР-ПЕТРОЛЬ",
+        "email": "ukrpetrol@gmail.com",
+        "name": "Укр-Петроль",
+        "name:en": "Ukr-Petrol",
+        "opening_hours": "24/7",
+        "operator": "ПП \"Укр-Петроль\"",
+        "ref": "X",
+        "website": "https://ukr-petrol.com.ua/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1437359177,
+      "lat": 48.5357818,
+      "lon": 26.4843701,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Авіас"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1437359185,
+      "lat": 48.5391436,
+      "lon": 26.4816841,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Лукойл",
+        "name": "Амік",
+        "name:en": "Amic",
+        "name:ru": "Амик",
+        "name:uk": "Аміс"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1437359557,
+      "lat": 48.6510725,
+      "lon": 26.5653827,
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1437359569,
+      "lat": 48.6533461,
+      "lon": 26.569836,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "WOG",
+        "brand:wikidata": "Q12072939",
+        "brand:wikipedia": "en:WOG (gas stations)",
+        "name": "WOG"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1437359572,
+      "lat": 48.6538292,
+      "lon": 26.5707848,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Укрнафта",
+        "brand:en": "Ukrnafta",
+        "brand:uk": "Укрнафта",
+        "brand:wikidata": "Q2447961",
+        "brand:wikipedia": "uk:Укрнафта",
+        "name": "Укрнафта",
+        "name:en": "Ukrnafta",
+        "name:uk": "Укрнафта"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1437359576,
+      "lat": 48.6632981,
+      "lon": 26.5823817,
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1503476831,
+      "lat": 48.47659,
+      "lon": 25.3248972,
+      "tags": {
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_80": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Amic"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1503476834,
+      "lat": 48.4816734,
+      "lon": 25.2480076,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Авіас Плюс",
+        "fuel:diesel": "yes",
+        "fuel:octane_80": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Авіас Плюс",
+        "operator": "Авіас Плюс"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1503476851,
+      "lat": 48.4850014,
+      "lon": 25.2408789,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "ANP",
+        "name": "ANP",
+        "operator": "ANP"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1503476874,
+      "lat": 48.5153101,
+      "lon": 25.1308404,
+      "tags": {
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_80": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "EURO НАФТА",
+        "opening_hours": "24/7",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1503476878,
+      "lat": 48.5225543,
+      "lon": 25.0902409,
+      "tags": {
+        "amenity": "fuel",
+        "name": "автоDrive",
+        "operator": "ТзОВ \"Автодрайв і ко\""
+      }
+    },
+    {
+      "type": "node",
+      "id": 1503476880,
+      "lat": 48.5246303,
+      "lon": 25.0834796,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Stels",
+        "email": "stels@gmail.com",
+        "name": "Stels",
+        "opening_hours": "24/7",
+        "operator": "ТОВ \"СТЕЛС ОЙЛ ГРУП\"",
+        "phone": "+38(050)585-33-33",
+        "ref": "11",
+        "website": "https://stels-oil.com.ua/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1594443418,
+      "lat": 48.53198,
+      "lon": 25.0580293,
+      "tags": {
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Біойл"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1647677437,
+      "lat": 48.2788189,
+      "lon": 25.9814547,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "ANP",
+        "fuel:diesel": "yes",
+        "fuel:octane_80": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "ANP",
+        "opening_hours": "24/7",
+        "operator": "ANP",
+        "toilets": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1678573180,
+      "lat": 48.271998,
+      "lon": 25.994228,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Okko"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1802530303,
+      "lat": 48.519057,
+      "lon": 25.1100294,
+      "tags": {
+        "amenity": "fuel",
+        "fuel:lpg": "yes",
+        "name": "Калан"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1805119743,
+      "lat": 48.4742285,
+      "lon": 25.440229,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "CHIPO",
+        "fuel:diesel": "yes",
+        "fuel:lpg": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Chipo",
+        "opening_hours": "24/7",
+        "operator": "ТОВ \"ПОДІЛЛЯНАФТОЗБУТ\"",
+        "ref": "31",
+        "shop": "convenience",
+        "vending": "coffee",
+        "website": "https://chipo.ua/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1805776650,
+      "lat": 48.430428,
+      "lon": 25.6052377,
+      "tags": {
+        "amenity": "fuel",
+        "fuel:lpg": "yes",
+        "name": "ГАЗ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1854811950,
+      "lat": 48.0397045,
+      "lon": 26.0142176,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "ANP",
+        "operator": "ANP"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1854811961,
+      "lat": 48.1218757,
+      "lon": 25.9958303,
+      "tags": {
+        "amenity": "fuel",
+        "operator": "Мавекс"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1854811962,
+      "lat": 48.1642926,
+      "lon": 25.9856775,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell",
+        "operator": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1863342631,
+      "lat": 48.3232536,
+      "lon": 25.9595618,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "WOG",
+        "name": "WOG",
+        "opening_hours": "24/7",
+        "operator": "WOG",
+        "owner": "ПАТ \"КонтинентНафтоТрейд\"",
+        "website": "https://wog.ua/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1885539603,
+      "lat": 48.3414066,
+      "lon": 25.8751985,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Shell",
+        "operator": "Shell",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2036672317,
+      "lat": 48.4893959,
+      "lon": 26.4821079,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "ОККО",
+        "name": "ОККО",
+        "operator": "ОККО"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2076083939,
+      "lat": 48.3227254,
+      "lon": 25.9615238,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "ОККО",
+        "operator": "ОККО"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2086725360,
+      "lat": 48.2990732,
+      "lon": 26.0115863,
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2086725686,
+      "lat": 48.3190483,
+      "lon": 26.0038799,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Амік",
+        "name:en": "Amik",
+        "name:uk": "Амік"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2122560881,
+      "lat": 48.3437353,
+      "lon": 25.8656953,
+      "tags": {
+        "addr:city": "Стрілецький кут",
+        "addr:housenumber": "1з",
+        "addr:street": "Шевченка вулиця",
+        "amenity": "fuel",
+        "brand": "ОККО",
+        "name": "ОККО",
+        "phone": "+38 0372 90 31 50",
+        "website": "https://www.okko.ua/",
+        "wheelchair": "yes",
+        "wheelchair:description": "Туалет для людей у візках, зручний доступ до приміщення АЗК для людей у візках"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2122569278,
+      "lat": 48.2797621,
+      "lon": 26.0569497,
+      "tags": {
+        "addr:city": "Остриця",
+        "addr:country": "UA",
+        "addr:housenumber": "33",
+        "addr:street": "Чернівецька вулиця",
+        "amenity": "fuel",
+        "brand": "ОККО",
+        "brand:en": "OKKO",
+        "brand:wikidata": "Q7072617",
+        "brand:wikipedia": "en:OKKO",
+        "fuel:diesel": "yes",
+        "fuel:lpg": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "ОККО",
+        "name:en": "OKKO",
+        "phone": "+38 0373 36 20 39",
+        "self_service": "no",
+        "website": "https://www.okko.ua/",
+        "wheelchair": "yes",
+        "wheelchair:description": "Туалет для людей у візках, зручний доступ до приміщення АЗК для людей у візках, парковка для неповносправних осіб"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2122570770,
+      "lat": 48.2792547,
+      "lon": 26.055589,
+      "tags": {
+        "addr:city": "Остриця",
+        "addr:country": "UA",
+        "addr:housenumber": "16",
+        "addr:street": "Чернівецька вулиця",
+        "amenity": "fuel",
+        "brand": "ОККО",
+        "brand:en": "OKKO",
+        "brand:wikidata": "Q7072617",
+        "brand:wikipedia": "en:OKKO",
+        "fuel:diesel": "yes",
+        "fuel:lpg": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "ОККО",
+        "name:en": "OKKO",
+        "phone": "+38 0373 36 20 39",
+        "self_service": "no",
+        "website": "https://www.okko.ua/",
+        "wheelchair": "yes",
+        "wheelchair:description": "Туалет для людей у візках, зручний доступ до приміщення АЗК для людей у візках, парковка для неповносправних осіб"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2245515673,
+      "lat": 48.316203,
+      "lon": 25.922268,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "WOG",
+        "brand:wikidata": "Q12072939",
+        "brand:wikipedia": "en:WOG (gas stations)",
+        "name": "WOG",
+        "opening_hours": "24/7",
+        "operator": "WOG",
+        "owner": "ПАТ \"КонтинентНафтоТрейд\"",
+        "website": "https://wog.ua/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2296011907,
+      "lat": 48.47411,
+      "lon": 26.82717,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Gas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2318958979,
+      "lat": 48.3122064,
+      "lon": 25.2273555,
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2322012961,
+      "lat": 48.5292748,
+      "lon": 25.8299877,
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2322012965,
+      "lat": 48.5259685,
+      "lon": 25.8274962,
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2322012968,
+      "lat": 48.5333705,
+      "lon": 25.8528647,
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2368144095,
+      "lat": 48.302378,
+      "lon": 25.9567854,
+      "tags": {
+        "amenity": "fuel",
+        "name": "ЮА",
+        "name:en": "Ya",
+        "name:uk": "ЮА"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2378714558,
+      "lat": 47.9939487,
+      "lon": 26.0547308,
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2378714587,
+      "lat": 47.9968953,
+      "lon": 26.052428,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "УКР-ПЕТРОЛЬ",
+        "email": "ukrpetrol@gmail.com",
+        "name": "Укр-Петроль",
+        "name:en": "Ukr-Petrol",
+        "opening_hours": "24/7",
+        "operator": "ПП \"Укр-Петроль\"",
+        "website": "https://ukr-petrol.com.ua/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2378714605,
+      "lat": 47.99739,
+      "lon": 26.0529103,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "УКР-ПЕТРОЛЬ",
+        "email": "ukrpetrol@gmail.com",
+        "name": "Укр-Петроль",
+        "name:en": "Ukr-Petrol",
+        "opening_hours": "24/7",
+        "operator": "ПП \"Укр-Петроль\"",
+        "website": "https://ukr-petrol.com.ua/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2388148381,
+      "lat": 48.360149,
+      "lon": 25.2505949,
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2411232764,
+      "lat": 48.2697659,
+      "lon": 26.8204573,
+      "tags": {
+        "addr:city": "Lipcani",
+        "addr:housenumber": "76A",
+        "addr:street": "Strada Livezilor",
+        "amenity": "fuel",
+        "brand": "Tirex Petrol",
+        "fuel:diesel": "yes",
+        "fuel:lpg": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Tirex Petrol",
+        "opening_hours": "24/7",
+        "operator": "Tirex Petrol",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2556234729,
+      "lat": 48.4307532,
+      "lon": 26.3951447,
+      "tags": {
+        "addr:city": "Недрбоївці",
+        "addr:postcode": "60035",
+        "amenity": "fuel",
+        "brand": "Stels",
+        "email": "stels@gmail.com",
+        "name": "Stels",
+        "opening_hours": "24/7",
+        "operator": "ТОВ \"СТЕЛС ОЙЛ ГРУП\"",
+        "phone": "+38(050)585-33-33",
+        "ref": "01",
+        "website": "https://stels-oil.com.ua/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2577946394,
+      "lat": 48.3771609,
+      "lon": 25.5256926,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Владєв"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2634781841,
+      "lat": 48.2625779,
+      "lon": 26.6133775,
+      "tags": {
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "AZ oil",
+        "name:en": "YA",
+        "payment:cash": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3016360040,
+      "lat": 48.4466392,
+      "lon": 26.4482077,
+      "tags": {
+        "amenity": "fuel",
+        "operator": "Авіас"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3016360235,
+      "lat": 48.4461893,
+      "lon": 26.448245,
+      "tags": {
+        "amenity": "fuel",
+        "operator": "Авіас"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3033978562,
+      "lat": 48.7336947,
+      "lon": 25.9628253,
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3059083042,
+      "lat": 48.5789658,
+      "lon": 25.2851297,
+      "tags": {
+        "addr:city": "Гвіздець",
+        "amenity": "fuel",
+        "contact:facebook": "https://www.facebook.com/VT-petroleum-475382439623125",
+        "contact:instagram": "vt__petroleum",
+        "name": "VT petroleum",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3114654745,
+      "lat": 48.6114338,
+      "lon": 25.5231901,
+      "tags": {
+        "addr:postcode": "78143",
+        "addr:street": "Січових Стрільців вулиця",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_91": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Stels №10",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3334248901,
+      "lat": 47.98207,
+      "lon": 26.06365,
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3437113251,
+      "lat": 48.7573329,
+      "lon": 25.7119703,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Маркет",
+        "name": "Маркет"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3469713227,
+      "lat": 48.3019981,
+      "lon": 26.0132433,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Владєв"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3469713243,
+      "lat": 48.280831,
+      "lon": 26.0544226,
+      "tags": {
+        "amenity": "fuel",
+        "name:ru": "Авиас"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3837484308,
+      "lat": 48.7001854,
+      "lon": 26.5658867,
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3925412540,
+      "lat": 48.4431491,
+      "lon": 26.7918589,
+      "tags": {
+        "amenity": "fuel",
+        "name": "ANP"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3925412541,
+      "lat": 48.4429974,
+      "lon": 26.7928886,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Мавекс"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4015104723,
+      "lat": 48.4196706,
+      "lon": 26.1579958,
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4062230681,
+      "lat": 48.2900342,
+      "lon": 25.9801789,
+      "tags": {
+        "amenity": "fuel",
+        "operator": "АвтоГазПром"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4062230817,
+      "lat": 48.2906433,
+      "lon": 25.9784898,
+      "tags": {
+        "amenity": "fuel",
+        "operator": "ANP"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4167478169,
+      "lat": 48.1717451,
+      "lon": 25.3313767,
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4200034489,
+      "lat": 48.7478365,
+      "lon": 26.6228624,
+      "tags": {
+        "amenity": "fuel",
+        "name": "ANP",
+        "name:ru": "АГНКС Метан",
+        "name:uk": "АГНКС Метан"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4208889126,
+      "lat": 48.7226807,
+      "lon": 26.6007469,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Заправка WOG"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4271695695,
+      "lat": 48.783611,
+      "lon": 26.708701,
+      "tags": {
+        "amenity": "fuel",
+        "name": "УкрНафта",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4292370389,
+      "lat": 48.317384,
+      "lon": 25.1076495,
+      "tags": {
+        "addr:city": "Коів",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Косів",
+        "name:en": "Kosiv",
+        "name:ru": "Косив"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4349675324,
+      "lat": 48.0183975,
+      "lon": 25.0672945,
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4365537789,
+      "lat": 48.2675806,
+      "lon": 26.767409,
+      "tags": {
+        "addr:city": "Lipcani",
+        "addr:housenumber": "168",
+        "addr:street": "Strada Independenței",
+        "amenity": "fuel",
+        "brand": "Tirex Petrol",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Tirex Petrol",
+        "opening_hours": "24/7",
+        "operator": "Tirex Petrol",
+        "payment:cash": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4379827489,
+      "lat": 48.2994344,
+      "lon": 25.1460579,
+      "tags": {
+        "amenity": "fuel",
+        "contact:facebook": "https://www.facebook.com/VT-petroleum-475382439623125",
+        "contact:instagram": "vt__petroleum",
+        "name": "VT petroleum",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4453216492,
+      "lat": 48.4220103,
+      "lon": 26.2692062,
+      "tags": {
+        "amenity": "fuel",
+        "name": "YoA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4453216529,
+      "lat": 48.4233374,
+      "lon": 26.2799369,
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4536236992,
+      "lat": 48.2674667,
+      "lon": 25.9907272,
+      "tags": {
+        "amenity": "fuel",
+        "name": "М ойл",
+        "name:en": "M oil",
+        "name:uk": "М ойл"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4611811989,
+      "lat": 48.242164,
+      "lon": 26.200884,
+      "tags": {
+        "amenity": "fuel",
+        "name": "МіК",
+        "name:ru": "МіК",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4644512394,
+      "lat": 48.4217214,
+      "lon": 26.1935602,
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4659811893,
+      "lat": 47.9820976,
+      "lon": 26.0638895,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Petrom",
+        "name:ro": "Petrom"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4696748090,
+      "lat": 48.1682496,
+      "lon": 25.7420066,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Євронафта",
+        "name:ru": "Евронафта",
+        "name:uk": "Євронафта"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4795574421,
+      "lat": 48.4790213,
+      "lon": 26.8357899,
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4799160721,
+      "lat": 48.3272706,
+      "lon": 26.299751,
+      "tags": {
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Мік",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4834718623,
+      "lat": 48.6790458,
+      "lon": 26.5976468,
+      "tags": {
+        "addr:housenumber": "30",
+        "addr:postcode": "32301",
+        "addr:street": "Привокзальна вулиця",
+        "amenity": "fuel",
+        "name": "Шелл",
+        "name:en": "Shel",
+        "name:ru": "Шелл",
+        "name:uk": "Шелл",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4870484025,
+      "lat": 48.6799736,
+      "lon": 26.5957511,
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4997869481,
+      "lat": 48.0132435,
+      "lon": 26.0358636,
+      "tags": {
+        "amenity": "fuel",
+        "name": "WOG"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5007376025,
+      "lat": 48.0501617,
+      "lon": 25.728774,
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5061967421,
+      "lat": 48.6738697,
+      "lon": 25.4814059,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Газова заправка",
+        "name:en": "LPG Station",
+        "name:ru": "Газовая заправка",
+        "name:uk": "Газова заправка",
+        "opening_hours": "Mo-Su 09:00-21:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5223617058,
+      "lat": 48.6398331,
+      "lon": 26.1647098,
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5292362521,
+      "lat": 48.2619966,
+      "lon": 26.2481569,
+      "tags": {
+        "amenity": "fuel",
+        "name": "МИК"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5598473025,
+      "lat": 48.267935,
+      "lon": 26.1083921,
+      "tags": {
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "VIZIT",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5678371821,
+      "lat": 48.7062702,
+      "lon": 26.5908181,
+      "tags": {
+        "amenity": "fuel",
+        "contact:email": "support@upg.ua",
+        "contact:facebook": "https://www.facebook.com/AZS.UPG/",
+        "contact:instagram": "https://www.instagram.com/upg.ua/",
+        "contact:phone": "+380 800 500 064",
+        "contact:website": "https://upg.ua/",
+        "contact:youtube": "https://www.youtube.com/channel/UCdsSNJljxnf4_NBFND3O8oQ",
+        "name": "UPG",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5710760594,
+      "lat": 48.2938535,
+      "lon": 26.0227011,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "БРСМ-Нафта",
+        "brand:wikidata": "Q56356523",
+        "brand:wikipedia": "uk:БРСМ-Нафта",
+        "fuel:diesel": "yes",
+        "fuel:lpg": "yes",
+        "fuel:octane_95": "yes",
+        "name": "БРСМ-Нафта",
+        "opening_hours": "24/7",
+        "payment:cash": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5710760595,
+      "lat": 48.2935597,
+      "lon": 26.0219447,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "БРСМ-Нафта",
+        "brand:wikidata": "Q56356523",
+        "brand:wikipedia": "uk:БРСМ-Нафта",
+        "fuel:diesel": "yes",
+        "fuel:lpg": "yes",
+        "fuel:octane_95": "yes",
+        "name": "БРСМ-Нафта",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5720392603,
+      "lat": 48.26003,
+      "lon": 26.8035636,
+      "tags": {
+        "addr:housenumber": "38",
+        "addr:street": "Strada Libertății",
+        "amenity": "fuel",
+        "brand": "Petrom",
+        "brand:wikidata": "Q1755034",
+        "brand:wikipedia": "en:Petrom",
+        "fuel:octane_95": "yes",
+        "name": "Petrom",
+        "opening_hours": "24/7",
+        "operator": "Petrom",
+        "phone": "+373-69600135",
+        "website": "http://www.petrom.md"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5853277488,
+      "lat": 48.4904756,
+      "lon": 26.4826587,
+      "tags": {
+        "amenity": "fuel",
+        "name": "АНП"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5969832660,
+      "lat": 48.0854565,
+      "lon": 25.6431766,
+      "tags": {
+        "amenity": "fuel",
+        "name": "ANP"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5969968830,
+      "lat": 48.1682897,
+      "lon": 25.7429766,
+      "tags": {
+        "amenity": "fuel",
+        "name": "ANP"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6013210185,
+      "lat": 48.264634,
+      "lon": 26.1352056,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Родничок"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6129200365,
+      "lat": 48.1543765,
+      "lon": 26.2504602,
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6174620188,
+      "lat": 48.279818,
+      "lon": 25.909051,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Феникс"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6174637885,
+      "lat": 48.320521,
+      "lon": 25.9061551,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Stels №3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6174637985,
+      "lat": 48.274538,
+      "lon": 25.9241483,
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6307582485,
+      "lat": 48.3210866,
+      "lon": 25.9075205,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Окко"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6549311343,
+      "lat": 48.2261199,
+      "lon": 25.916323,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Stels №5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6549311344,
+      "lat": 48.1288837,
+      "lon": 25.9955757,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Stels",
+        "email": "stels@gmail.com",
+        "name": "Stels",
+        "opening_hours": "24/7",
+        "operator": "ТОВ \"СТЕЛС ОЙЛ ГРУП\"",
+        "phone": "+38(050)585-33-33",
+        "ref": "03",
+        "website": "https://stels-oil.com.ua/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6549311345,
+      "lat": 48.2252464,
+      "lon": 26.2428796,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Stels",
+        "email": "stels@gmail.com",
+        "name": "Stels",
+        "opening_hours": "24/7",
+        "operator": "ТОВ \"СТЕЛС ОЙЛ ГРУП\"",
+        "phone": "+38(050)585-33-33",
+        "ref": "05",
+        "website": "https://stels-oil.com.ua/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6579547661,
+      "lat": 48.3858403,
+      "lon": 25.9145684,
+      "tags": {
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6688377564,
+      "lat": 48.2475846,
+      "lon": 25.172618,
+      "tags": {
+        "amenity": "fuel",
+        "name": "ЄвроНафта"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6829730838,
+      "lat": 48.2703098,
+      "lon": 26.6833437,
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7057038058,
+      "lat": 48.3091049,
+      "lon": 25.119236,
+      "tags": {
+        "addr:housenumber": "1",
+        "addr:street": "Дружби вулиця",
+        "amenity": "fuel",
+        "brand": "CHIPO",
+        "fuel:diesel": "yes",
+        "fuel:lpg": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Chipo",
+        "opening_hours": "24/7",
+        "operator": "ТОВ \"ПОДІЛЛЯНАФТОЗБУТ\"",
+        "ref": "27",
+        "shop": "convenience",
+        "vending": "coffee",
+        "website": "https://chipo.ua/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7207025050,
+      "lat": 48.252878,
+      "lon": 26.1903202,
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7462676377,
+      "lat": 48.1875999,
+      "lon": 26.5899743,
+      "tags": {
+        "addr:city": "Darabani",
+        "addr:housenumber": "120",
+        "addr:postcode": "715100",
+        "addr:street": "Strada 1 Decembrie 1918",
+        "amenity": "fuel",
+        "brand": "Socar",
+        "brand:wikidata": "Q1622293",
+        "brand:wikipedia": "en:SOCAR",
+        "fuel:benzina": "yes",
+        "fuel:diesel": "yes",
+        "name": "Socar",
+        "self_service": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7511795607,
+      "lat": 48.1837752,
+      "lon": 26.6018798,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Petrom",
+        "brand:wikidata": "Q1755034",
+        "brand:wikipedia": "en:Petrom",
+        "name": "Petrom"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7795076232,
+      "lat": 48.7680968,
+      "lon": 25.6237194,
+      "tags": {
+        "amenity": "fuel",
+        "name": "VT petroleum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7880056219,
+      "lat": 48.4684115,
+      "lon": 25.2940142,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "CHIPO",
+        "fuel:diesel": "yes",
+        "fuel:lpg": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "no",
+        "name": "Chipo",
+        "opening_hours": "24/7",
+        "operator": "ТОВ \"ПОДІЛЛЯНАФТОЗБУТ\"",
+        "ref": "32",
+        "shop": "convenience",
+        "vending": "coffee",
+        "website": "https://chipo.ua/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7880056226,
+      "lat": 48.4615429,
+      "lon": 25.5427569,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "CHIPO",
+        "fuel:diesel": "yes",
+        "fuel:lpg": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Chipo",
+        "opening_hours": "24/7",
+        "operator": "ТОВ \"ПОДІЛЛЯНАФТОЗБУТ\"",
+        "ref": "30",
+        "shop": "convenience",
+        "website": "https://chipo.ua/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7885380944,
+      "lat": 48.3938813,
+      "lon": 25.2322322,
+      "tags": {
+        "amenity": "fuel",
+        "contact:facebook": "https://www.facebook.com/VT-petroleum-475382439623125",
+        "contact:instagram": "vt__petroleum",
+        "name": "VT petroleum",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7921615243,
+      "lat": 48.2108776,
+      "lon": 25.904308,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Stels",
+        "email": "stels@gmail.com",
+        "fixme": "location to be updated or confirmed",
+        "name": "Stels",
+        "opening_hours": "24/7",
+        "operator": "ТОВ \"СТЕЛС ОЙЛ ГРУП\"",
+        "phone": "+38(050)585-33-33",
+        "ref": "04",
+        "website": "https://stels-oil.com.ua/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7921615255,
+      "lat": 48.3198573,
+      "lon": 25.940945,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Stels",
+        "email": "stels@gmail.com",
+        "name": "Stels",
+        "opening_hours": "24/7",
+        "operator": "ТОВ \"СТЕЛС ОЙЛ ГРУП\"",
+        "phone": "+38(050)585-33-33",
+        "ref": "14",
+        "website": "https://stels-oil.com.ua/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7921615256,
+      "lat": 48.3228784,
+      "lon": 25.9008023,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Stels",
+        "email": "stels@gmail.com",
+        "fixme": "location to be updated",
+        "name": "Stels",
+        "opening_hours": "24/7",
+        "operator": "ТОВ \"СТЕЛС ОЙЛ ГРУП\"",
+        "phone": "+38(050)585-33-33",
+        "ref": "02",
+        "website": "https://stels-oil.com.ua/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7929175305,
+      "lat": 48.1798783,
+      "lon": 25.1176241,
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8040418894,
+      "lat": 48.1559929,
+      "lon": 26.2467751,
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8041267185,
+      "lat": 48.3975108,
+      "lon": 25.2335465,
+      "tags": {
+        "amenity": "fuel",
+        "name": "VipOil"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8146128278,
+      "lat": 48.024212,
+      "lon": 26.061159,
+      "tags": {
+        "amenity": "fuel",
+        "contact:email": "support@upg.ua",
+        "contact:facebook": "https://www.facebook.com/AZS.UPG/",
+        "contact:instagram": "https://www.instagram.com/upg.ua/",
+        "contact:phone": "+380 800 500 064",
+        "contact:website": "https://upg.ua/",
+        "contact:youtube": "https://www.youtube.com/channel/UCdsSNJljxnf4_NBFND3O8oQ",
+        "name": "Upg",
+        "opening_hours": "24/7",
+        "operator": "Медиаплан"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8305407217,
+      "lat": 48.1496019,
+      "lon": 25.9797496,
+      "tags": {
+        "amenity": "fuel",
+        "name:en": "PPoil",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8314802273,
+      "lat": 48.2795303,
+      "lon": 26.0570086,
+      "tags": {
+        "amenity": "fuel",
+        "fuel:lpg": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8923658177,
+      "lat": 48.2248782,
+      "lon": 25.5504262,
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9188378718,
+      "lat": 48.3328548,
+      "lon": 26.0529457,
+      "tags": {
+        "amenity": "fuel",
+        "operator": "Nova"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9270350502,
+      "lat": 48.3940622,
+      "lon": 26.0996702,
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9321055961,
+      "lat": 48.4144655,
+      "lon": 26.6148855,
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 34941039,
+      "nodes": [
+        410058942,
+        410058943,
+        410058944,
+        1919885349,
+        410058945,
+        410058946,
+        1919885350,
+        410058947,
+        410058942
+      ],
+      "tags": {
+        "addr:housenumber": "1",
+        "addr:street": "Енергетична вулиця",
+        "amenity": "fuel",
+        "building": "yes",
+        "fuel:cng": "yes",
+        "operator": "РВУ \"Львівавтогаз\""
+      }
+    },
+    {
+      "type": "way",
+      "id": 57821275,
+      "nodes": [
+        717383024,
+        7019465022,
+        717383028,
+        717383031,
+        7019465021,
+        717383033,
+        717383037,
+        717383041,
+        717383024
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Amic",
+        "building": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "operator": "Amic"
+      }
+    },
+    {
+      "type": "way",
+      "id": 79725014,
+      "nodes": [
+        930402437,
+        930402438,
+        930402440,
+        930402442,
+        930402437
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "building": "yes",
+        "fuel:cng": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 88704606,
+      "nodes": [
+        1029793653,
+        1032342799,
+        1029793661,
+        1029793669,
+        1032342754,
+        1029793670,
+        1029793653
+      ],
+      "tags": {
+        "addr:street": "Пилипа Орлика вулиця",
+        "amenity": "fuel",
+        "building": "roof",
+        "name": "Мавекс"
+      }
+    },
+    {
+      "type": "way",
+      "id": 89008956,
+      "nodes": [
+        1032963618,
+        1032963621,
+        1032963624,
+        1032963628,
+        1032963618
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "brand": "ANP",
+        "building": "roof",
+        "layer": "1",
+        "name": "ANP"
+      }
+    },
+    {
+      "type": "way",
+      "id": 93725134,
+      "nodes": [
+        1088365238,
+        1088365244,
+        8234208014,
+        8234208013,
+        1088365251,
+        1088365259,
+        1088365238
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "brand": "ANP",
+        "building": "yes",
+        "operator": "ANP"
+      }
+    },
+    {
+      "type": "way",
+      "id": 122064655,
+      "nodes": [
+        1364828364,
+        1994919937,
+        1993453478,
+        1994919922,
+        1994919925,
+        1993453480,
+        1994919944,
+        1364828370,
+        1364828371,
+        1364828368,
+        1364828364
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "ANP",
+        "operator": "ANP"
+      }
+    },
+    {
+      "type": "way",
+      "id": 145616211,
+      "nodes": [
+        1589965644,
+        1589965656,
+        1589965657,
+        1589965664,
+        1589965666,
+        1589965651,
+        1589965644
+      ],
+      "tags": {
+        "abandoned": "yes",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 146880350,
+      "nodes": [
+        1601021086,
+        1601021090,
+        1601021083,
+        1601021074,
+        1601021086
+      ],
+      "tags": {
+        "addr:housenumber": "118",
+        "addr:postcode": "48601",
+        "addr:street": "Степана Бандери вулиця",
+        "amenity": "fuel",
+        "brand": "WOG",
+        "building": "yes",
+        "name": "WOG",
+        "opening_hours": "24/7",
+        "operator": "WOG",
+        "owner": "ПАТ \"КонтинентНафтоТрейд\"",
+        "website": "https://wog.ua/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 146969700,
+      "nodes": [
+        1601650341,
+        1601650329,
+        1601650330,
+        1601650342,
+        1601650341
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Західнафтосервіс",
+        "building": "yes",
+        "name": "ZNS",
+        "opening_hours": "24/7",
+        "operator": "ZNS"
+      }
+    },
+    {
+      "type": "way",
+      "id": 146972218,
+      "nodes": [
+        1601671473,
+        1601671471,
+        1601671472,
+        1601671475,
+        1601671473
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 188855348,
+      "nodes": [
+        1994924147,
+        1994924131,
+        1994924130,
+        1994924127,
+        1994924128,
+        1994924134,
+        1994924132,
+        1994924147
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "brand": "WOG",
+        "brand:wikidata": "Q12072939",
+        "brand:wikipedia": "en:WOG (gas stations)",
+        "building": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "name": "WOG",
+        "operator": "WOG"
+      }
+    },
+    {
+      "type": "way",
+      "id": 235453449,
+      "nodes": [
+        2435095449,
+        2435095451,
+        2435095452,
+        2435095450,
+        2435095447,
+        2435095448,
+        2435095449
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 251223250,
+      "nodes": [
+        2574747267,
+        3192047116,
+        2574747269,
+        2574747270,
+        3192047115,
+        2574747271,
+        2574747267
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "brand": "WOG",
+        "building": "yes",
+        "name": "WOG",
+        "opening_hours": "24/7",
+        "operator": "WOG",
+        "owner": "ПАТ \"КонтинентНафтоТрейд\"",
+        "website": "https://wog.ua/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 251569621,
+      "nodes": [
+        2577743212,
+        2577743215,
+        2577743218,
+        2577743221,
+        2577743212
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 251681504,
+      "nodes": [
+        2578645745,
+        2578645746,
+        2578645747,
+        2578645748,
+        2578645745
+      ],
+      "tags": {
+        "addr:city": "Мельниця-Подільська",
+        "addr:street": "Головна вулиця",
+        "amenity": "fuel",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 251749831,
+      "nodes": [
+        2579331601,
+        2579331602,
+        2579331603,
+        2579331604,
+        2579331601
+      ],
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 260906127,
+      "nodes": [
+        2665046177,
+        2665046179,
+        2665046180,
+        2665046181,
+        2665046183,
+        2665046177
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 273456378,
+      "nodes": [
+        2783070027,
+        7454421348,
+        7454421347,
+        7454421346,
+        7454421345,
+        7454421344,
+        7454421343,
+        7454421342,
+        7454421341,
+        7454421340,
+        7454421339,
+        7454421338,
+        7454421337,
+        2783070031,
+        2783070028,
+        7454421336,
+        7454421335,
+        7454421334,
+        7454421333,
+        7454421332,
+        7454421331,
+        7454421330,
+        2783070026,
+        7454421329,
+        2783070027
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "layer": "1",
+        "name": "УкрНафта"
+      }
+    },
+    {
+      "type": "way",
+      "id": 273483628,
+      "nodes": [
+        2783305139,
+        2783305143,
+        2783305137,
+        2783305134,
+        2783305139
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 296403044,
+      "nodes": [
+        3001941438,
+        3001941439,
+        7511795603,
+        7511795604,
+        3001941440,
+        7462306528,
+        7462306529,
+        3001941438
+      ],
+      "tags": {
+        "addr:city": "Darabani",
+        "addr:housenumber": "176",
+        "addr:postcode": "715100",
+        "addr:street": "Strada 1 Decembrie 1918",
+        "amenity": "fuel",
+        "brand": "Petrom",
+        "brand:wikidata": "Q1755034",
+        "brand:wikipedia": "en:Petrom",
+        "building": "yes",
+        "name": "Petrom",
+        "operator": "Petrom",
+        "self_service": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 299459297,
+      "nodes": [
+        3034496765,
+        3034496767,
+        3034496766,
+        3034496763,
+        3034496764,
+        3034496761,
+        3034496765
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "building": "yes",
+        "fuel:diesel": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 309762722,
+      "nodes": [
+        3150985605,
+        3150985606,
+        7019465032,
+        3150985607,
+        3150985608,
+        7019465033,
+        3150985605
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "building": "yes",
+        "fuel:lpg": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 310472266,
+      "nodes": [
+        3158984306,
+        3441497964,
+        3441497965,
+        3441497967,
+        3441497968,
+        3441497966,
+        3158984308,
+        3441497974,
+        3441497973,
+        3441497972,
+        3441497971,
+        3441497975,
+        3158984306
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Amic",
+        "building": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Amic Energy"
+      }
+    },
+    {
+      "type": "way",
+      "id": 337414207,
+      "nodes": [
+        3445054373,
+        7011088243,
+        3445054375,
+        3445054377,
+        3445054379,
+        3445054381,
+        3445054383,
+        3445054384,
+        3445054387,
+        3445054389,
+        3445054390,
+        3445054391,
+        3445054388,
+        3445054386,
+        3445054385,
+        7011088244,
+        3445054382,
+        3445054380,
+        3445054378,
+        3445054376,
+        3445054374,
+        3445054372,
+        3445054370,
+        3445054371,
+        3445054373
+      ],
+      "tags": {
+        "addr:housenumber": "116г",
+        "addr:postcode": "48601",
+        "addr:street": "Степана Бандери вулиця",
+        "amenity": "fuel",
+        "brand": "Авіас Плюс",
+        "building": "yes",
+        "building:levels": "1",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Авіас Плюс",
+        "name:en": "Avias Plus",
+        "name:ru": "Авиас Плюс",
+        "name:uk": "Авіас Плюс",
+        "operator": "АЗС Приват",
+        "website": "http://avias.com.ua"
+      }
+    },
+    {
+      "type": "way",
+      "id": 337470777,
+      "nodes": [
+        3445560802,
+        3445560803,
+        3445560804,
+        3445560805,
+        3445560802
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "operator": "ОККО"
+      }
+    },
+    {
+      "type": "way",
+      "id": 337932627,
+      "nodes": [
+        3450098545,
+        3450098546,
+        3450098547,
+        3450098548,
+        3450098549,
+        3450098550,
+        3450098545
+      ],
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 337932629,
+      "nodes": [
+        3450098558,
+        3450098559,
+        3450098560,
+        3450098561,
+        3450098558
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "name": "АНП"
+      }
+    },
+    {
+      "type": "way",
+      "id": 342807735,
+      "nodes": [
+        3497663685,
+        3497663686,
+        3497663688,
+        3497663687,
+        3497663685
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "brand": "ANP",
+        "fuel:diesel": "yes",
+        "fuel:lpg": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 342809376,
+      "nodes": [
+        3497665578,
+        3497665579,
+        3497665577,
+        3497665576,
+        3497665578
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "brand": "ANP",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 358357868,
+      "nodes": [
+        3632898260,
+        3632898261,
+        3632898262,
+        3632898263,
+        3632898260
+      ],
+      "tags": {
+        "addr:housenumber": "2Б",
+        "addr:street": "Грушевського проспект",
+        "amenity": "fuel",
+        "name": "ОККО"
+      }
+    },
+    {
+      "type": "way",
+      "id": 370538960,
+      "nodes": [
+        3742358607,
+        3742358606,
+        3742358602,
+        3742358604,
+        3742358607
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "building": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_91": "yes",
+        "fuel:octane_95": "yes",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "way",
+      "id": 386242041,
+      "nodes": [
+        3895663569,
+        3895663570,
+        3895663571,
+        3895663572,
+        3895663569
+      ],
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 390607837,
+      "nodes": [
+        3937726921,
+        3937726922,
+        3937726923,
+        3937726926,
+        7017163731,
+        3937726927,
+        3937726928,
+        7017163732,
+        3937726925,
+        3937726924,
+        3937726921
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Stels",
+        "building": "yes",
+        "email": "stels@gmail.com",
+        "name": "Stels",
+        "opening_hours": "24/7",
+        "operator": "ТОВ \"СТЕЛС ОЙЛ ГРУП\"",
+        "phone": "+38(050)585-33-33",
+        "ref": "06",
+        "website": "https://stels-oil.com.ua/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 391558313,
+      "nodes": [
+        942042398,
+        3947833232,
+        3947833233,
+        942042669,
+        3947833231,
+        3947833230,
+        3947833229,
+        942042398
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "fuel:lpg": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 391562237,
+      "nodes": [
+        3947849099,
+        3947849100,
+        3947849101,
+        3947849102,
+        3947849099
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "fuel:lpg": "yes",
+        "landuse": "industrial"
+      }
+    },
+    {
+      "type": "way",
+      "id": 450749404,
+      "nodes": [
+        4476533999,
+        4476534000,
+        4476534001,
+        4476534002,
+        4476533999
+      ],
+      "tags": {
+        "addr:postcode": "60014",
+        "addr:street": "Д. Каравацького вулиця",
+        "amenity": "fuel",
+        "building:levels": "1",
+        "height": "2"
+      }
+    },
+    {
+      "type": "way",
+      "id": 455380097,
+      "nodes": [
+        4517916476,
+        4517916477,
+        4517916478,
+        4517916479,
+        4517916476
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 459459030,
+      "nodes": [
+        4553082863,
+        4553082867,
+        4553082866,
+        4553082862,
+        4553082861,
+        4553082860,
+        4553082863
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "building": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 459459031,
+      "nodes": [
+        4553082871,
+        4553082870,
+        4553082869,
+        4553082868,
+        4553082867,
+        4553082866,
+        4553082865,
+        4553082864,
+        4553082871
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Bizon Oil"
+      }
+    },
+    {
+      "type": "way",
+      "id": 466664279,
+      "nodes": [
+        4614137218,
+        4614137217,
+        4614137216,
+        4614137215,
+        4614137214,
+        4614137199,
+        4614137213,
+        4614137212,
+        4614137211,
+        4614137210,
+        4614137209,
+        4614137208,
+        4614137207,
+        4614137206,
+        4614137205,
+        4614137204,
+        4614137203,
+        4614137202,
+        4614137201,
+        4614137200,
+        4614137218
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "area:highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 508107747,
+      "nodes": [
+        4974770526,
+        4974770525,
+        4974770524,
+        4974770523,
+        4974770522,
+        4974770521,
+        4974754720,
+        4974754719,
+        4974754718,
+        4974754717,
+        4974754716,
+        4974770526
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "area:highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 508110207,
+      "nodes": [
+        4974785316,
+        4974785315,
+        4974785314,
+        4974785313,
+        4974785312,
+        4974785316
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "fuel:lpg": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 534552187,
+      "nodes": [
+        5183821996,
+        5183821997,
+        5183821998,
+        7457764115,
+        5183821996
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "brand": "БРСМ-Нафта",
+        "brand:wikidata": "Q56356523",
+        "brand:wikipedia": "uk:БРСМ-Нафта",
+        "building": "yes",
+        "name": "БРСМ-Нафта",
+        "opening_hours": "Mo-Su 00:00-12:00"
+      }
+    },
+    {
+      "type": "way",
+      "id": 568351090,
+      "nodes": [
+        5468048464,
+        5468048463,
+        5468048462,
+        5468048461,
+        5468048460,
+        5468048465,
+        5468048464
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "name": "Олпас",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "way",
+      "id": 600635504,
+      "nodes": [
+        5710760596,
+        5710760597,
+        5710760598,
+        5710760599,
+        5710760596
+      ],
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 600635505,
+      "nodes": [
+        5710760600,
+        5710760601,
+        5710760602,
+        5710760603,
+        5710760600
+      ],
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 624808369,
+      "nodes": [
+        5900108520,
+        6779722800,
+        5900108521,
+        6779722801,
+        6779722802,
+        5900108522,
+        6779722799,
+        5900108523,
+        5900108520
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "brand": "UPG",
+        "name": "UPG",
+        "operator": "UPG"
+      }
+    },
+    {
+      "type": "way",
+      "id": 633060850,
+      "nodes": [
+        5976191624,
+        5976191623,
+        5976191622,
+        5976191621,
+        5976191624
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof"
+      }
+    },
+    {
+      "type": "way",
+      "id": 654079406,
+      "nodes": [
+        6129485198,
+        6129485571,
+        6129485199,
+        6129485200,
+        6129485201,
+        6129485198
+      ],
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 654599543,
+      "nodes": [
+        6133685377,
+        6133685378,
+        6133685379,
+        6133685380,
+        8112564776,
+        8112564775,
+        6133685377
+      ],
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 664164480,
+      "nodes": [
+        6216487075,
+        6216487076,
+        6216487077,
+        6429988814,
+        6216487075
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "brand": "ANP",
+        "building": "roof",
+        "fuel:diesel": "yes",
+        "fuel:octane_80": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "layer": "1",
+        "name": "ANP",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 664217694,
+      "nodes": [
+        6216964639,
+        6216964640,
+        6216964641,
+        6216964642,
+        6216964643,
+        6216964644,
+        6216964645,
+        6216964646,
+        6216964639
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "building": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 664271109,
+      "nodes": [
+        6217409180,
+        6217409181,
+        6217409182,
+        6217409183,
+        6217409184,
+        6217409285,
+        6217409287,
+        6217409286,
+        6217409288,
+        6217409180
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Укрнафта",
+        "brand:en": "Ukrnafta",
+        "brand:uk": "Укрнафта",
+        "brand:wikidata": "Q2447961",
+        "brand:wikipedia": "uk:Укрнафта",
+        "name": "Укрнафта",
+        "name:en": "Ukrnafta",
+        "name:uk": "Укрнафта"
+      }
+    },
+    {
+      "type": "way",
+      "id": 669517941,
+      "nodes": [
+        6269686339,
+        6269686340,
+        6269686341,
+        6269686342,
+        6269686339
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "fuel:gasoline": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 685968212,
+      "nodes": [
+        6429210235,
+        6429210234,
+        6429210233,
+        6429210232,
+        6429210235
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 707456525,
+      "nodes": [
+        6648151868,
+        6648151869,
+        7623334656,
+        6648151870,
+        6648151871,
+        6648151868
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 746594388,
+      "nodes": [
+        6986797099,
+        6986797100,
+        6986797116,
+        6986797113,
+        6986797101,
+        6986797102,
+        6986797112,
+        6986797103,
+        6986797147,
+        6986797104,
+        6986797105,
+        6986797146,
+        6986797106,
+        6986797099
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "building": "roof",
+        "level": "1",
+        "name": "Євронафта"
+      }
+    },
+    {
+      "type": "way",
+      "id": 778712155,
+      "nodes": [
+        7270698949,
+        7270698948,
+        7270698947,
+        7270698946,
+        7270698944,
+        7270698945,
+        7270698949
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 781886256,
+      "nodes": [
+        7300083788,
+        7300083787,
+        7300083786,
+        7300083785,
+        7300083788
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "building": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 796915310,
+      "nodes": [
+        7453003806,
+        7453003805,
+        7453003804,
+        7453003803,
+        7453003806
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "building": "yes",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "way",
+      "id": 803032057,
+      "nodes": [
+        7511795599,
+        7511795600,
+        7511795601,
+        7511795602,
+        7511795603,
+        7511795604,
+        7511795605,
+        7511795606,
+        7511795599
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Petrom",
+        "brand:wikidata": "Q1755034",
+        "brand:wikipedia": "en:Petrom",
+        "name": "Petrom"
+      }
+    },
+    {
+      "type": "way",
+      "id": 887360569,
+      "nodes": [
+        8250151793,
+        8250151794,
+        8250151795,
+        8250151796,
+        8250151793
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "operator": "ANP"
+      }
+    },
+    {
+      "type": "way",
+      "id": 905837252,
+      "nodes": [
+        8412085731,
+        8412085723,
+        8412085722,
+        8412085730,
+        8412085729,
+        8412085728,
+        8412085727,
+        8412085726,
+        8412085725,
+        8412085724,
+        8412085731
+      ],
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 944001614,
+      "nodes": [
+        8740150264,
+        8740150265,
+        8740150266,
+        8740150267,
+        8740150264
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "name": "Євронафта"
+      }
+    },
+    {
+      "type": "way",
+      "id": 998405343,
+      "nodes": [
+        9218560011,
+        9218560010,
+        9218560009,
+        9218560008,
+        9218560007,
+        9218560006,
+        9218560005,
+        9218560011
+      ],
+      "tags": {
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5978260,
+      "members": [
+        {
+          "type": "way",
+          "ref": 397974229,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 397974228,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 8272988,
+      "members": [
+        {
+          "type": "way",
+          "ref": 501459430,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 643959496,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "brand": "ГНК",
+        "building": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Авиас",
+        "name:uk": "Авіас",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 11356036,
+      "members": [
+        {
+          "type": "way",
+          "ref": 830883884,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 830883885,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "fuel:lpg": "yes",
+        "fuel:octane_95": "yes",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 11951714,
+      "members": [
+        {
+          "type": "way",
+          "ref": 877992914,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 877992913,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 877992915,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 11956729,
+      "members": [
+        {
+          "type": "way",
+          "ref": 878685536,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 878685528,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 878685537,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 878685539,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12435068,
+      "members": [
+        {
+          "type": "way",
+          "ref": 916259016,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 916259015,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 906337405,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 13569477,
+      "members": [
+        {
+          "type": "way",
+          "ref": 1013587275,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1013587274,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1013587280,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1013587279,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1013587276,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8740150264,
+      "lat": 48.1774129,
+      "lon": 25.3497272
+    },
+    {
+      "type": "node",
+      "id": 8740150265,
+      "lat": 48.176878,
+      "lon": 25.3500189
+    },
+    {
+      "type": "node",
+      "id": 8740150266,
+      "lat": 48.1774129,
+      "lon": 25.352073
+    },
+    {
+      "type": "node",
+      "id": 8740150267,
+      "lat": 48.1779803,
+      "lon": 25.3516355
+    },
+    {
+      "type": "node",
+      "id": 4007448802,
+      "lat": 48.0952581,
+      "lon": 25.4909575
+    },
+    {
+      "type": "node",
+      "id": 4007448825,
+      "lat": 48.0954348,
+      "lon": 25.491349
+    },
+    {
+      "type": "node",
+      "id": 4007448832,
+      "lat": 48.0954696,
+      "lon": 25.4907591
+    },
+    {
+      "type": "node",
+      "id": 4007448835,
+      "lat": 48.0954604,
+      "lon": 25.4914169
+    },
+    {
+      "type": "node",
+      "id": 4007448865,
+      "lat": 48.0955986,
+      "lon": 25.4910445
+    },
+    {
+      "type": "node",
+      "id": 4007448879,
+      "lat": 48.0956674,
+      "lon": 25.4912151
+    },
+    {
+      "type": "node",
+      "id": 3497663685,
+      "lat": 48.0851158,
+      "lon": 25.643325
+    },
+    {
+      "type": "node",
+      "id": 3497663686,
+      "lat": 48.0853314,
+      "lon": 25.6435666
+    },
+    {
+      "type": "node",
+      "id": 3497663687,
+      "lat": 48.0856022,
+      "lon": 25.6424144
+    },
+    {
+      "type": "node",
+      "id": 3497663688,
+      "lat": 48.085848,
+      "lon": 25.6426409
+    },
+    {
+      "type": "node",
+      "id": 3497665576,
+      "lat": 48.1437817,
+      "lon": 25.6863073
+    },
+    {
+      "type": "node",
+      "id": 3497665577,
+      "lat": 48.143784,
+      "lon": 25.6870589
+    },
+    {
+      "type": "node",
+      "id": 3497665578,
+      "lat": 48.1439643,
+      "lon": 25.686306
+    },
+    {
+      "type": "node",
+      "id": 3497665579,
+      "lat": 48.1439666,
+      "lon": 25.6870577
+    },
+    {
+      "type": "node",
+      "id": 2574747267,
+      "lat": 48.1708446,
+      "lon": 25.7102871
+    },
+    {
+      "type": "node",
+      "id": 2574747269,
+      "lat": 48.1706365,
+      "lon": 25.7100509
+    },
+    {
+      "type": "node",
+      "id": 2574747270,
+      "lat": 48.170585,
+      "lon": 25.710153
+    },
+    {
+      "type": "node",
+      "id": 2574747271,
+      "lat": 48.1707931,
+      "lon": 25.7103892
+    },
+    {
+      "type": "node",
+      "id": 3192047115,
+      "lat": 48.1706168,
+      "lon": 25.7101891
+    },
+    {
+      "type": "node",
+      "id": 3192047116,
+      "lat": 48.1706705,
+      "lon": 25.7100892
+    },
+    {
+      "type": "node",
+      "id": 2579331601,
+      "lat": 48.1684601,
+      "lon": 25.7426042
+    },
+    {
+      "type": "node",
+      "id": 2579331602,
+      "lat": 48.1680098,
+      "lon": 25.7429625
+    },
+    {
+      "type": "node",
+      "id": 2579331603,
+      "lat": 48.168151,
+      "lon": 25.7436401
+    },
+    {
+      "type": "node",
+      "id": 2579331604,
+      "lat": 48.1685345,
+      "lon": 25.7433735
+    },
+    {
+      "type": "node",
+      "id": 4517916476,
+      "lat": 48.0814088,
+      "lon": 25.9319762
+    },
+    {
+      "type": "node",
+      "id": 4517916477,
+      "lat": 48.0814226,
+      "lon": 25.9322764
+    },
+    {
+      "type": "node",
+      "id": 4517916478,
+      "lat": 48.0811529,
+      "lon": 25.9322971
+    },
+    {
+      "type": "node",
+      "id": 4517916479,
+      "lat": 48.0811529,
+      "lon": 25.9319762
+    },
+    {
+      "type": "node",
+      "id": 6129485198,
+      "lat": 48.0893315,
+      "lon": 25.949694
+    },
+    {
+      "type": "node",
+      "id": 6129485199,
+      "lat": 48.0893947,
+      "lon": 25.950843
+    },
+    {
+      "type": "node",
+      "id": 6129485200,
+      "lat": 48.0891509,
+      "lon": 25.9508836
+    },
+    {
+      "type": "node",
+      "id": 6129485201,
+      "lat": 48.0890245,
+      "lon": 25.9496805
+    },
+    {
+      "type": "node",
+      "id": 6129485571,
+      "lat": 48.0893534,
+      "lon": 25.9500919
+    },
+    {
+      "type": "node",
+      "id": 5468048460,
+      "lat": 48.2477151,
+      "lon": 25.8727893
+    },
+    {
+      "type": "node",
+      "id": 5468048461,
+      "lat": 48.2476859,
+      "lon": 25.8728416
+    },
+    {
+      "type": "node",
+      "id": 5468048462,
+      "lat": 48.2475649,
+      "lon": 25.8726888
+    },
+    {
+      "type": "node",
+      "id": 5468048463,
+      "lat": 48.2475942,
+      "lon": 25.8726365
+    },
+    {
+      "type": "node",
+      "id": 5468048464,
+      "lat": 48.2476361,
+      "lon": 25.8726895
+    },
+    {
+      "type": "node",
+      "id": 5468048465,
+      "lat": 48.247695,
+      "lon": 25.8727639
+    },
+    {
+      "type": "node",
+      "id": 3947849100,
+      "lat": 48.2507884,
+      "lon": 25.9424115
+    },
+    {
+      "type": "node",
+      "id": 3947849101,
+      "lat": 48.2507758,
+      "lon": 25.9418162
+    },
+    {
+      "type": "node",
+      "id": 6429210233,
+      "lat": 48.2115505,
+      "lon": 25.9743762
+    },
+    {
+      "type": "node",
+      "id": 6429210234,
+      "lat": 48.2115004,
+      "lon": 25.9742453
+    },
+    {
+      "type": "node",
+      "id": 6429210235,
+      "lat": 48.2115511,
+      "lon": 25.9742016
+    },
+    {
+      "type": "node",
+      "id": 6429210232,
+      "lat": 48.2116012,
+      "lon": 25.9743325
+    },
+    {
+      "type": "node",
+      "id": 3158984306,
+      "lat": 48.2197748,
+      "lon": 25.9828478
+    },
+    {
+      "type": "node",
+      "id": 3158984308,
+      "lat": 48.2196714,
+      "lon": 25.9832758
+    },
+    {
+      "type": "node",
+      "id": 3441497964,
+      "lat": 48.219622,
+      "lon": 25.9828663
+    },
+    {
+      "type": "node",
+      "id": 3441497965,
+      "lat": 48.2196288,
+      "lon": 25.9829949
+    },
+    {
+      "type": "node",
+      "id": 3441497966,
+      "lat": 48.2196635,
+      "lon": 25.9831309
+    },
+    {
+      "type": "node",
+      "id": 3441497967,
+      "lat": 48.2196725,
+      "lon": 25.9829897
+    },
+    {
+      "type": "node",
+      "id": 3441497968,
+      "lat": 48.2196799,
+      "lon": 25.9831289
+    },
+    {
+      "type": "node",
+      "id": 3441497971,
+      "lat": 48.2197477,
+      "lon": 25.982975
+    },
+    {
+      "type": "node",
+      "id": 3441497972,
+      "lat": 48.2197551,
+      "lon": 25.9831133
+    },
+    {
+      "type": "node",
+      "id": 3441497973,
+      "lat": 48.219779,
+      "lon": 25.9831104
+    },
+    {
+      "type": "node",
+      "id": 3441497974,
+      "lat": 48.2197871,
+      "lon": 25.9832618
+    },
+    {
+      "type": "node",
+      "id": 3441497975,
+      "lat": 48.2197814,
+      "lon": 25.9829709
+    },
+    {
+      "type": "node",
+      "id": 5900108521,
+      "lat": 47.9983669,
+      "lon": 26.0502055
+    },
+    {
+      "type": "node",
+      "id": 5900108522,
+      "lat": 47.9981856,
+      "lon": 26.0503989
+    },
+    {
+      "type": "node",
+      "id": 6779722799,
+      "lat": 47.9982432,
+      "lon": 26.0503432
+    },
+    {
+      "type": "node",
+      "id": 6779722800,
+      "lat": 47.9983342,
+      "lon": 26.0502727
+    },
+    {
+      "type": "node",
+      "id": 6779722801,
+      "lat": 47.9982841,
+      "lon": 26.0500144
+    },
+    {
+      "type": "node",
+      "id": 6779722802,
+      "lat": 47.9980973,
+      "lon": 26.0501952
+    },
+    {
+      "type": "node",
+      "id": 5900108520,
+      "lat": 47.9985467,
+      "lon": 26.0507634
+    },
+    {
+      "type": "node",
+      "id": 5900108523,
+      "lat": 47.9984611,
+      "lon": 26.0508462
+    },
+    {
+      "type": "node",
+      "id": 3895663569,
+      "lat": 48.0522027,
+      "lon": 26.1154641
+    },
+    {
+      "type": "node",
+      "id": 3895663570,
+      "lat": 48.0520951,
+      "lon": 26.115389
+    },
+    {
+      "type": "node",
+      "id": 3895663571,
+      "lat": 48.0520629,
+      "lon": 26.1155446
+    },
+    {
+      "type": "node",
+      "id": 3895663572,
+      "lat": 48.0521525,
+      "lon": 26.1155982
+    },
+    {
+      "type": "node",
+      "id": 4553082860,
+      "lat": 48.2351959,
+      "lon": 26.0109919
+    },
+    {
+      "type": "node",
+      "id": 4553082861,
+      "lat": 48.23512,
+      "lon": 26.0107806
+    },
+    {
+      "type": "node",
+      "id": 4553082862,
+      "lat": 48.2349815,
+      "lon": 26.0108928
+    },
+    {
+      "type": "node",
+      "id": 4553082863,
+      "lat": 48.2350574,
+      "lon": 26.011104
+    },
+    {
+      "type": "node",
+      "id": 4553082864,
+      "lat": 48.2348243,
+      "lon": 26.0108432
+    },
+    {
+      "type": "node",
+      "id": 4553082865,
+      "lat": 48.2348999,
+      "lon": 26.0110503
+    },
+    {
+      "type": "node",
+      "id": 4553082866,
+      "lat": 48.2350066,
+      "lon": 26.0109625
+    },
+    {
+      "type": "node",
+      "id": 4553082867,
+      "lat": 48.2350402,
+      "lon": 26.0110561
+    },
+    {
+      "type": "node",
+      "id": 4553082868,
+      "lat": 48.2349312,
+      "lon": 26.0111458
+    },
+    {
+      "type": "node",
+      "id": 4553082869,
+      "lat": 48.234939,
+      "lon": 26.0111672
+    },
+    {
+      "type": "node",
+      "id": 4553082870,
+      "lat": 48.2348798,
+      "lon": 26.011216
+    },
+    {
+      "type": "node",
+      "id": 4553082871,
+      "lat": 48.2347623,
+      "lon": 26.0108942
+    },
+    {
+      "type": "node",
+      "id": 7716917278,
+      "lat": 48.2293937,
+      "lon": 26.1196196
+    },
+    {
+      "type": "node",
+      "id": 7716917279,
+      "lat": 48.2294365,
+      "lon": 26.1217151
+    },
+    {
+      "type": "node",
+      "id": 7758138268,
+      "lat": 48.2294033,
+      "lon": 26.1205857
+    },
+    {
+      "type": "node",
+      "id": 7758138269,
+      "lat": 48.229318,
+      "lon": 26.121724
+    },
+    {
+      "type": "node",
+      "id": 7758138270,
+      "lat": 48.22919,
+      "lon": 26.1216622
+    },
+    {
+      "type": "node",
+      "id": 7758138271,
+      "lat": 48.2290388,
+      "lon": 26.1217436
+    },
+    {
+      "type": "node",
+      "id": 7758138272,
+      "lat": 48.2289362,
+      "lon": 26.1216979
+    },
+    {
+      "type": "node",
+      "id": 7758138273,
+      "lat": 48.2288966,
+      "lon": 26.1215535
+    },
+    {
+      "type": "node",
+      "id": 7758138274,
+      "lat": 48.2289343,
+      "lon": 26.1214473
+    },
+    {
+      "type": "node",
+      "id": 7758138275,
+      "lat": 48.2289577,
+      "lon": 26.1214232
+    },
+    {
+      "type": "node",
+      "id": 7758138276,
+      "lat": 48.2289641,
+      "lon": 26.1212871
+    },
+    {
+      "type": "node",
+      "id": 7758138277,
+      "lat": 48.2290322,
+      "lon": 26.1212427
+    },
+    {
+      "type": "node",
+      "id": 7758138278,
+      "lat": 48.2290829,
+      "lon": 26.1212152
+    },
+    {
+      "type": "node",
+      "id": 7758138279,
+      "lat": 48.2290061,
+      "lon": 26.1208536
+    },
+    {
+      "type": "node",
+      "id": 7758138280,
+      "lat": 48.2289211,
+      "lon": 26.1207217
+    },
+    {
+      "type": "node",
+      "id": 7758138281,
+      "lat": 48.2288468,
+      "lon": 26.1201388
+    },
+    {
+      "type": "node",
+      "id": 7758138282,
+      "lat": 48.2288226,
+      "lon": 26.1199363
+    },
+    {
+      "type": "node",
+      "id": 7758138283,
+      "lat": 48.2288301,
+      "lon": 26.1196684
+    },
+    {
+      "type": "node",
+      "id": 7758138284,
+      "lat": 48.2288986,
+      "lon": 26.1196423
+    },
+    {
+      "type": "node",
+      "id": 7758147585,
+      "lat": 48.2289641,
+      "lon": 26.1199336
+    },
+    {
+      "type": "node",
+      "id": 7758147586,
+      "lat": 48.2291246,
+      "lon": 26.1198713
+    },
+    {
+      "type": "node",
+      "id": 7758147587,
+      "lat": 48.229228,
+      "lon": 26.1196253
+    },
+    {
+      "type": "node",
+      "id": 4974754716,
+      "lat": 48.2302583,
+      "lon": 26.2296706
+    },
+    {
+      "type": "node",
+      "id": 4974754717,
+      "lat": 48.2304459,
+      "lon": 26.2289223
+    },
+    {
+      "type": "node",
+      "id": 4974754718,
+      "lat": 48.2305763,
+      "lon": 26.2285092
+    },
+    {
+      "type": "node",
+      "id": 4974754719,
+      "lat": 48.2302922,
+      "lon": 26.2286407
+    },
+    {
+      "type": "node",
+      "id": 4974754720,
+      "lat": 48.2301814,
+      "lon": 26.2290564
+    },
+    {
+      "type": "node",
+      "id": 4974770521,
+      "lat": 48.2300045,
+      "lon": 26.2291315
+    },
+    {
+      "type": "node",
+      "id": 4974770522,
+      "lat": 48.2299581,
+      "lon": 26.2293273
+    },
+    {
+      "type": "node",
+      "id": 4974770523,
+      "lat": 48.2300599,
+      "lon": 26.2295607
+    },
+    {
+      "type": "node",
+      "id": 4974770524,
+      "lat": 48.2300242,
+      "lon": 26.2297001
+    },
+    {
+      "type": "node",
+      "id": 4974770525,
+      "lat": 48.2301403,
+      "lon": 26.2300193
+    },
+    {
+      "type": "node",
+      "id": 4974770526,
+      "lat": 48.2301296,
+      "lon": 26.2301508
+    },
+    {
+      "type": "node",
+      "id": 4974785312,
+      "lat": 48.2248067,
+      "lon": 26.2427357
+    },
+    {
+      "type": "node",
+      "id": 4974785313,
+      "lat": 48.2247031,
+      "lon": 26.2426149
+    },
+    {
+      "type": "node",
+      "id": 4974785314,
+      "lat": 48.2246869,
+      "lon": 26.2424031
+    },
+    {
+      "type": "node",
+      "id": 4974785315,
+      "lat": 48.2249407,
+      "lon": 26.2421322
+    },
+    {
+      "type": "node",
+      "id": 4974785316,
+      "lat": 48.2250408,
+      "lon": 26.2422475
+    },
+    {
+      "type": "node",
+      "id": 4614137199,
+      "lat": 48.2301316,
+      "lon": 26.2681797
+    },
+    {
+      "type": "node",
+      "id": 4614137200,
+      "lat": 48.2306864,
+      "lon": 26.2682307
+    },
+    {
+      "type": "node",
+      "id": 4614137201,
+      "lat": 48.2305783,
+      "lon": 26.2683514
+    },
+    {
+      "type": "node",
+      "id": 4614137202,
+      "lat": 48.2306114,
+      "lon": 26.2684332
+    },
+    {
+      "type": "node",
+      "id": 4614137203,
+      "lat": 48.2306775,
+      "lon": 26.2684815
+    },
+    {
+      "type": "node",
+      "id": 4614137204,
+      "lat": 48.230816,
+      "lon": 26.2683501
+    },
+    {
+      "type": "node",
+      "id": 4614137205,
+      "lat": 48.2308696,
+      "lon": 26.2684869
+    },
+    {
+      "type": "node",
+      "id": 4614137206,
+      "lat": 48.2306793,
+      "lon": 26.2686464
+    },
+    {
+      "type": "node",
+      "id": 4614137207,
+      "lat": 48.2305783,
+      "lon": 26.2685512
+    },
+    {
+      "type": "node",
+      "id": 4614137208,
+      "lat": 48.2304434,
+      "lon": 26.2687001
+    },
+    {
+      "type": "node",
+      "id": 4614137209,
+      "lat": 48.2303863,
+      "lon": 26.2685445
+    },
+    {
+      "type": "node",
+      "id": 4614137210,
+      "lat": 48.2301504,
+      "lon": 26.2684801
+    },
+    {
+      "type": "node",
+      "id": 4614137211,
+      "lat": 48.2300307,
+      "lon": 26.2683165
+    },
+    {
+      "type": "node",
+      "id": 4614137212,
+      "lat": 48.2299833,
+      "lon": 26.2683125
+    },
+    {
+      "type": "node",
+      "id": 4614137213,
+      "lat": 48.2299842,
+      "lon": 26.2682066
+    },
+    {
+      "type": "node",
+      "id": 4614137214,
+      "lat": 48.2302791,
+      "lon": 26.2681543
+    },
+    {
+      "type": "node",
+      "id": 4614137215,
+      "lat": 48.2303863,
+      "lon": 26.2680845
+    },
+    {
+      "type": "node",
+      "id": 4614137216,
+      "lat": 48.2305524,
+      "lon": 26.2678109
+    },
+    {
+      "type": "node",
+      "id": 4614137217,
+      "lat": 48.2305837,
+      "lon": 26.2677412
+    },
+    {
+      "type": "node",
+      "id": 4614137218,
+      "lat": 48.2306793,
+      "lon": 26.2677291
+    },
+    {
+      "type": "node",
+      "id": 3001941438,
+      "lat": 48.1841258,
+      "lon": 26.6015497
+    },
+    {
+      "type": "node",
+      "id": 3001941439,
+      "lat": 48.1838108,
+      "lon": 26.6022395
+    },
+    {
+      "type": "node",
+      "id": 3001941440,
+      "lat": 48.1835342,
+      "lon": 26.601924
+    },
+    {
+      "type": "node",
+      "id": 7462306528,
+      "lat": 48.1836939,
+      "lon": 26.6015982
+    },
+    {
+      "type": "node",
+      "id": 7462306529,
+      "lat": 48.1839381,
+      "lon": 26.6015291
+    },
+    {
+      "type": "node",
+      "id": 7511795599,
+      "lat": 48.1837534,
+      "lon": 26.6017286
+    },
+    {
+      "type": "node",
+      "id": 7511795600,
+      "lat": 48.1838633,
+      "lon": 26.6018389
+    },
+    {
+      "type": "node",
+      "id": 7511795601,
+      "lat": 48.1838119,
+      "lon": 26.6019542
+    },
+    {
+      "type": "node",
+      "id": 7511795602,
+      "lat": 48.1837831,
+      "lon": 26.6019253
+    },
+    {
+      "type": "node",
+      "id": 7511795603,
+      "lat": 48.1837025,
+      "lon": 26.6021062
+    },
+    {
+      "type": "node",
+      "id": 7511795604,
+      "lat": 48.1836534,
+      "lon": 26.6020569
+    },
+    {
+      "type": "node",
+      "id": 7511795605,
+      "lat": 48.1837304,
+      "lon": 26.6018842
+    },
+    {
+      "type": "node",
+      "id": 7511795606,
+      "lat": 48.1836984,
+      "lon": 26.6018521
+    },
+    {
+      "type": "node",
+      "id": 8250151793,
+      "lat": 48.2454669,
+      "lon": 26.5485705
+    },
+    {
+      "type": "node",
+      "id": 8250151794,
+      "lat": 48.245343,
+      "lon": 26.5483145
+    },
+    {
+      "type": "node",
+      "id": 8250151795,
+      "lat": 48.2452208,
+      "lon": 26.5484594
+    },
+    {
+      "type": "node",
+      "id": 8250151796,
+      "lat": 48.2453607,
+      "lon": 26.5487082
+    },
+    {
+      "type": "node",
+      "id": 7300083785,
+      "lat": 48.2930569,
+      "lon": 25.2347064
+    },
+    {
+      "type": "node",
+      "id": 7300083786,
+      "lat": 48.2931434,
+      "lon": 25.2347708
+    },
+    {
+      "type": "node",
+      "id": 7300083787,
+      "lat": 48.2931774,
+      "lon": 25.2346677
+    },
+    {
+      "type": "node",
+      "id": 7300083788,
+      "lat": 48.2930908,
+      "lon": 25.2346033
+    },
+    {
+      "type": "node",
+      "id": 7270698944,
+      "lat": 48.2930462,
+      "lon": 25.262983
+    },
+    {
+      "type": "node",
+      "id": 7270698945,
+      "lat": 48.2928044,
+      "lon": 25.2628395
+    },
+    {
+      "type": "node",
+      "id": 7270698946,
+      "lat": 48.2931114,
+      "lon": 25.2629381
+    },
+    {
+      "type": "node",
+      "id": 7270698947,
+      "lat": 48.2932184,
+      "lon": 25.2625358
+    },
+    {
+      "type": "node",
+      "id": 7270698948,
+      "lat": 48.2930784,
+      "lon": 25.262403
+    },
+    {
+      "type": "node",
+      "id": 7270698949,
+      "lat": 48.292965,
+      "lon": 25.2623132
+    },
+    {
+      "type": "node",
+      "id": 4922654291,
+      "lat": 48.3922229,
+      "lon": 25.3244246
+    },
+    {
+      "type": "node",
+      "id": 4922654293,
+      "lat": 48.3922119,
+      "lon": 25.3244349
+    },
+    {
+      "type": "node",
+      "id": 4922654294,
+      "lat": 48.3922672,
+      "lon": 25.3245674
+    },
+    {
+      "type": "node",
+      "id": 4922654295,
+      "lat": 48.3923423,
+      "lon": 25.3244964
+    },
+    {
+      "type": "node",
+      "id": 4922654296,
+      "lat": 48.3922871,
+      "lon": 25.3243639
+    },
+    {
+      "type": "node",
+      "id": 2665046177,
+      "lat": 48.3138796,
+      "lon": 25.5772614
+    },
+    {
+      "type": "node",
+      "id": 2665046179,
+      "lat": 48.3138059,
+      "lon": 25.5773029
+    },
+    {
+      "type": "node",
+      "id": 2665046180,
+      "lat": 48.3138377,
+      "lon": 25.5774288
+    },
+    {
+      "type": "node",
+      "id": 2665046181,
+      "lat": 48.3138551,
+      "lon": 25.5774906
+    },
+    {
+      "type": "node",
+      "id": 2665046183,
+      "lat": 48.3139256,
+      "lon": 25.5774492
+    },
+    {
+      "type": "node",
+      "id": 6217409180,
+      "lat": 48.3698009,
+      "lon": 25.5527418
+    },
+    {
+      "type": "node",
+      "id": 6217409181,
+      "lat": 48.3697382,
+      "lon": 25.5529326
+    },
+    {
+      "type": "node",
+      "id": 6217409182,
+      "lat": 48.3696199,
+      "lon": 25.5528446
+    },
+    {
+      "type": "node",
+      "id": 6217409183,
+      "lat": 48.3696355,
+      "lon": 25.5527971
+    },
+    {
+      "type": "node",
+      "id": 6217409184,
+      "lat": 48.3695908,
+      "lon": 25.5527638
+    },
+    {
+      "type": "node",
+      "id": 6217409285,
+      "lat": 48.3696245,
+      "lon": 25.552661
+    },
+    {
+      "type": "node",
+      "id": 6217409286,
+      "lat": 48.3696757,
+      "lon": 25.5526487
+    },
+    {
+      "type": "node",
+      "id": 6217409287,
+      "lat": 48.3696624,
+      "lon": 25.5526892
+    },
+    {
+      "type": "node",
+      "id": 6217409288,
+      "lat": 48.3697519,
+      "lon": 25.5527054
+    },
+    {
+      "type": "node",
+      "id": 6216964639,
+      "lat": 48.3616328,
+      "lon": 25.598547
+    },
+    {
+      "type": "node",
+      "id": 6216964640,
+      "lat": 48.3616165,
+      "lon": 25.5985261
+    },
+    {
+      "type": "node",
+      "id": 6216964641,
+      "lat": 48.3616373,
+      "lon": 25.5984894
+    },
+    {
+      "type": "node",
+      "id": 6216964642,
+      "lat": 48.3616002,
+      "lon": 25.598442
+    },
+    {
+      "type": "node",
+      "id": 6216964643,
+      "lat": 48.3615685,
+      "lon": 25.5984982
+    },
+    {
+      "type": "node",
+      "id": 6216964644,
+      "lat": 48.3615851,
+      "lon": 25.5985195
+    },
+    {
+      "type": "node",
+      "id": 6216964645,
+      "lat": 48.3615589,
+      "lon": 25.598566
+    },
+    {
+      "type": "node",
+      "id": 6216964646,
+      "lat": 48.3615956,
+      "lon": 25.5986129
+    },
+    {
+      "type": "node",
+      "id": 6269686341,
+      "lat": 48.3636125,
+      "lon": 25.7097513
+    },
+    {
+      "type": "node",
+      "id": 6269686342,
+      "lat": 48.363657,
+      "lon": 25.7097382
+    },
+    {
+      "type": "node",
+      "id": 6429988814,
+      "lat": 48.364349,
+      "lon": 25.7097532
+    },
+    {
+      "type": "node",
+      "id": 6216487075,
+      "lat": 48.3644983,
+      "lon": 25.7098994
+    },
+    {
+      "type": "node",
+      "id": 6216487076,
+      "lat": 48.3644471,
+      "lon": 25.710018
+    },
+    {
+      "type": "node",
+      "id": 6216487077,
+      "lat": 48.3642978,
+      "lon": 25.7098718
+    },
+    {
+      "type": "node",
+      "id": 6269686339,
+      "lat": 48.3636687,
+      "lon": 25.7098286
+    },
+    {
+      "type": "node",
+      "id": 6269686340,
+      "lat": 48.3636242,
+      "lon": 25.7098416
+    },
+    {
+      "type": "node",
+      "id": 3937726921,
+      "lat": 48.2642241,
+      "lon": 25.9012384
+    },
+    {
+      "type": "node",
+      "id": 3937726922,
+      "lat": 48.2642208,
+      "lon": 25.9014381
+    },
+    {
+      "type": "node",
+      "id": 3937726923,
+      "lat": 48.264277,
+      "lon": 25.9014403
+    },
+    {
+      "type": "node",
+      "id": 3937726924,
+      "lat": 48.2642851,
+      "lon": 25.9012407
+    },
+    {
+      "type": "node",
+      "id": 3937726925,
+      "lat": 48.2642843,
+      "lon": 25.9012877
+    },
+    {
+      "type": "node",
+      "id": 3937726926,
+      "lat": 48.2642777,
+      "lon": 25.9013935
+    },
+    {
+      "type": "node",
+      "id": 3937726927,
+      "lat": 48.2644035,
+      "lon": 25.9013982
+    },
+    {
+      "type": "node",
+      "id": 3937726928,
+      "lat": 48.2644053,
+      "lon": 25.9012923
+    },
+    {
+      "type": "node",
+      "id": 7017163731,
+      "lat": 48.2643565,
+      "lon": 25.9013973
+    },
+    {
+      "type": "node",
+      "id": 7017163732,
+      "lat": 48.2643601,
+      "lon": 25.9012906
+    },
+    {
+      "type": "node",
+      "id": 8412085722,
+      "lat": 48.2642697,
+      "lon": 25.9004939
+    },
+    {
+      "type": "node",
+      "id": 8412085723,
+      "lat": 48.2644465,
+      "lon": 25.9006467
+    },
+    {
+      "type": "node",
+      "id": 8412085724,
+      "lat": 48.264534,
+      "lon": 25.9018484
+    },
+    {
+      "type": "node",
+      "id": 8412085725,
+      "lat": 48.2643447,
+      "lon": 25.9018832
+    },
+    {
+      "type": "node",
+      "id": 8412085726,
+      "lat": 48.2641769,
+      "lon": 25.9021971
+    },
+    {
+      "type": "node",
+      "id": 8412085727,
+      "lat": 48.2641447,
+      "lon": 25.9018725
+    },
+    {
+      "type": "node",
+      "id": 8412085728,
+      "lat": 48.2641215,
+      "lon": 25.9013736
+    },
+    {
+      "type": "node",
+      "id": 8412085729,
+      "lat": 48.2641322,
+      "lon": 25.9010571
+    },
+    {
+      "type": "node",
+      "id": 8412085730,
+      "lat": 48.2641787,
+      "lon": 25.9004563
+    },
+    {
+      "type": "node",
+      "id": 8412085731,
+      "lat": 48.2645465,
+      "lon": 25.9006494
+    },
+    {
+      "type": "node",
+      "id": 1994924127,
+      "lat": 48.2686554,
+      "lon": 25.9257033
+    },
+    {
+      "type": "node",
+      "id": 1994924128,
+      "lat": 48.2687302,
+      "lon": 25.9256319
+    },
+    {
+      "type": "node",
+      "id": 1994924130,
+      "lat": 48.2687076,
+      "lon": 25.9258264
+    },
+    {
+      "type": "node",
+      "id": 1994924131,
+      "lat": 48.2687778,
+      "lon": 25.9258689
+    },
+    {
+      "type": "node",
+      "id": 1994924132,
+      "lat": 48.2687558,
+      "lon": 25.9255794
+    },
+    {
+      "type": "node",
+      "id": 1994924134,
+      "lat": 48.2687502,
+      "lon": 25.9256373
+    },
+    {
+      "type": "node",
+      "id": 1994924147,
+      "lat": 48.268833,
+      "lon": 25.9256174
+    },
+    {
+      "type": "node",
+      "id": 5976191621,
+      "lat": 48.2688797,
+      "lon": 25.9256491
+    },
+    {
+      "type": "node",
+      "id": 5976191622,
+      "lat": 48.2688228,
+      "lon": 25.925959
+    },
+    {
+      "type": "node",
+      "id": 5976191623,
+      "lat": 48.2688921,
+      "lon": 25.9259878
+    },
+    {
+      "type": "node",
+      "id": 5976191624,
+      "lat": 48.268949,
+      "lon": 25.9256778
+    },
+    {
+      "type": "node",
+      "id": 1364828364,
+      "lat": 48.2738791,
+      "lon": 25.9195557
+    },
+    {
+      "type": "node",
+      "id": 1364828368,
+      "lat": 48.2739265,
+      "lon": 25.9194989
+    },
+    {
+      "type": "node",
+      "id": 1364828370,
+      "lat": 48.2739472,
+      "lon": 25.9196783
+    },
+    {
+      "type": "node",
+      "id": 1364828371,
+      "lat": 48.2739927,
+      "lon": 25.9196237
+    },
+    {
+      "type": "node",
+      "id": 1993453478,
+      "lat": 48.2738295,
+      "lon": 25.919654
+    },
+    {
+      "type": "node",
+      "id": 1993453480,
+      "lat": 48.2738718,
+      "lon": 25.919735
+    },
+    {
+      "type": "node",
+      "id": 1994919922,
+      "lat": 48.2737602,
+      "lon": 25.9197371
+    },
+    {
+      "type": "node",
+      "id": 1994919925,
+      "lat": 48.273803,
+      "lon": 25.9198175
+    },
+    {
+      "type": "node",
+      "id": 1994919937,
+      "lat": 48.2738917,
+      "lon": 25.9195795
+    },
+    {
+      "type": "node",
+      "id": 1994919944,
+      "lat": 48.2739363,
+      "lon": 25.9196578
+    },
+    {
+      "type": "node",
+      "id": 3947849099,
+      "lat": 48.2511972,
+      "lon": 25.9423918
+    },
+    {
+      "type": "node",
+      "id": 3947849102,
+      "lat": 48.2512101,
+      "lon": 25.9418188
+    },
+    {
+      "type": "node",
+      "id": 1029793653,
+      "lat": 48.2663778,
+      "lon": 25.9270306
+    },
+    {
+      "type": "node",
+      "id": 1029793661,
+      "lat": 48.2662256,
+      "lon": 25.9272328
+    },
+    {
+      "type": "node",
+      "id": 1029793669,
+      "lat": 48.2662978,
+      "lon": 25.9273554
+    },
+    {
+      "type": "node",
+      "id": 1029793670,
+      "lat": 48.2664474,
+      "lon": 25.9271538
+    },
+    {
+      "type": "node",
+      "id": 1032342754,
+      "lat": 48.2664349,
+      "lon": 25.9271734
+    },
+    {
+      "type": "node",
+      "id": 1032342799,
+      "lat": 48.2663232,
+      "lon": 25.9271032
+    },
+    {
+      "type": "node",
+      "id": 8416417327,
+      "lat": 48.2667355,
+      "lon": 25.9265676
+    },
+    {
+      "type": "node",
+      "id": 8416417328,
+      "lat": 48.2665195,
+      "lon": 25.9265676
+    },
+    {
+      "type": "node",
+      "id": 8510361911,
+      "lat": 48.2659589,
+      "lon": 25.9266639
+    },
+    {
+      "type": "node",
+      "id": 8510361912,
+      "lat": 48.2659927,
+      "lon": 25.9269163
+    },
+    {
+      "type": "node",
+      "id": 8510361913,
+      "lat": 48.2661213,
+      "lon": 25.9274796
+    },
+    {
+      "type": "node",
+      "id": 8510361914,
+      "lat": 48.2662141,
+      "lon": 25.927611
+    },
+    {
+      "type": "node",
+      "id": 8510361915,
+      "lat": 48.2665837,
+      "lon": 25.9276566
+    },
+    {
+      "type": "node",
+      "id": 8168752900,
+      "lat": 48.3028094,
+      "lon": 25.9242542
+    },
+    {
+      "type": "node",
+      "id": 8168752906,
+      "lat": 48.3026149,
+      "lon": 25.9252667
+    },
+    {
+      "type": "node",
+      "id": 8168752914,
+      "lat": 48.3022795,
+      "lon": 25.924108
+    },
+    {
+      "type": "node",
+      "id": 8168752915,
+      "lat": 48.302688,
+      "lon": 25.9238881
+    },
+    {
+      "type": "node",
+      "id": 8168752916,
+      "lat": 48.3031394,
+      "lon": 25.9249382
+    },
+    {
+      "type": "node",
+      "id": 717383024,
+      "lat": 48.2593413,
+      "lon": 25.9554597
+    },
+    {
+      "type": "node",
+      "id": 717383028,
+      "lat": 48.2595541,
+      "lon": 25.955304
+    },
+    {
+      "type": "node",
+      "id": 717383031,
+      "lat": 48.2595869,
+      "lon": 25.9554052
+    },
+    {
+      "type": "node",
+      "id": 717383033,
+      "lat": 48.2594603,
+      "lon": 25.9554978
+    },
+    {
+      "type": "node",
+      "id": 717383037,
+      "lat": 48.2594745,
+      "lon": 25.9555416
+    },
+    {
+      "type": "node",
+      "id": 717383041,
+      "lat": 48.2593883,
+      "lon": 25.9556046
+    },
+    {
+      "type": "node",
+      "id": 7019465021,
+      "lat": 48.2594961,
+      "lon": 25.9554716
+    },
+    {
+      "type": "node",
+      "id": 7019465022,
+      "lat": 48.2594302,
+      "lon": 25.9553946
+    },
+    {
+      "type": "node",
+      "id": 930402437,
+      "lat": 48.2558668,
+      "lon": 25.9666663
+    },
+    {
+      "type": "node",
+      "id": 930402438,
+      "lat": 48.2560061,
+      "lon": 25.9665858
+    },
+    {
+      "type": "node",
+      "id": 930402440,
+      "lat": 48.2560596,
+      "lon": 25.966795
+    },
+    {
+      "type": "node",
+      "id": 930402442,
+      "lat": 48.2559203,
+      "lon": 25.9668754
+    },
+    {
+      "type": "node",
+      "id": 3150985605,
+      "lat": 48.2556408,
+      "lon": 25.9671089
+    },
+    {
+      "type": "node",
+      "id": 3150985606,
+      "lat": 48.2556788,
+      "lon": 25.967225
+    },
+    {
+      "type": "node",
+      "id": 3150985607,
+      "lat": 48.2555602,
+      "lon": 25.9673128
+    },
+    {
+      "type": "node",
+      "id": 3150985608,
+      "lat": 48.2555222,
+      "lon": 25.9671967
+    },
+    {
+      "type": "node",
+      "id": 7019465032,
+      "lat": 48.255608,
+      "lon": 25.9672774
+    },
+    {
+      "type": "node",
+      "id": 7019465033,
+      "lat": 48.2555713,
+      "lon": 25.9671604
+    },
+    {
+      "type": "node",
+      "id": 942042398,
+      "lat": 48.2646917,
+      "lon": 25.9553825
+    },
+    {
+      "type": "node",
+      "id": 942042669,
+      "lat": 48.2646748,
+      "lon": 25.9543824
+    },
+    {
+      "type": "node",
+      "id": 3947833229,
+      "lat": 48.2644703,
+      "lon": 25.9549644
+    },
+    {
+      "type": "node",
+      "id": 3947833230,
+      "lat": 48.2643922,
+      "lon": 25.9546983
+    },
+    {
+      "type": "node",
+      "id": 3947833231,
+      "lat": 48.264445,
+      "lon": 25.9545082
+    },
+    {
+      "type": "node",
+      "id": 3947833232,
+      "lat": 48.2647718,
+      "lon": 25.9553033
+    },
+    {
+      "type": "node",
+      "id": 3947833233,
+      "lat": 48.2647089,
+      "lon": 25.9543718
+    },
+    {
+      "type": "node",
+      "id": 6986797099,
+      "lat": 48.3190653,
+      "lon": 25.9081976
+    },
+    {
+      "type": "node",
+      "id": 6986797100,
+      "lat": 48.3189872,
+      "lon": 25.9082463
+    },
+    {
+      "type": "node",
+      "id": 6986797101,
+      "lat": 48.3190594,
+      "lon": 25.9085085
+    },
+    {
+      "type": "node",
+      "id": 6986797102,
+      "lat": 48.3191334,
+      "lon": 25.9084624
+    },
+    {
+      "type": "node",
+      "id": 6986797103,
+      "lat": 48.3190968,
+      "lon": 25.9083293
+    },
+    {
+      "type": "node",
+      "id": 6986797104,
+      "lat": 48.3191832,
+      "lon": 25.9082755
+    },
+    {
+      "type": "node",
+      "id": 6986797105,
+      "lat": 48.3191627,
+      "lon": 25.9082009
+    },
+    {
+      "type": "node",
+      "id": 6986797106,
+      "lat": 48.3190803,
+      "lon": 25.9082522
+    },
+    {
+      "type": "node",
+      "id": 6986797112,
+      "lat": 48.3191135,
+      "lon": 25.9083899
+    },
+    {
+      "type": "node",
+      "id": 6986797113,
+      "lat": 48.3190422,
+      "lon": 25.9084461
+    },
+    {
+      "type": "node",
+      "id": 6986797116,
+      "lat": 48.3190173,
+      "lon": 25.9083555
+    },
+    {
+      "type": "node",
+      "id": 6986797146,
+      "lat": 48.3191084,
+      "lon": 25.9082347
+    },
+    {
+      "type": "node",
+      "id": 6986797147,
+      "lat": 48.3191288,
+      "lon": 25.9083094
+    },
+    {
+      "type": "node",
+      "id": 1032963618,
+      "lat": 48.3261511,
+      "lon": 25.903869
+    },
+    {
+      "type": "node",
+      "id": 1032963621,
+      "lat": 48.3260584,
+      "lon": 25.9039337
+    },
+    {
+      "type": "node",
+      "id": 1032963624,
+      "lat": 48.326158,
+      "lon": 25.9042558
+    },
+    {
+      "type": "node",
+      "id": 1032963628,
+      "lat": 48.3262506,
+      "lon": 25.904191
+    },
+    {
+      "type": "node",
+      "id": 410058942,
+      "lat": 48.3202917,
+      "lon": 25.9325945
+    },
+    {
+      "type": "node",
+      "id": 410058943,
+      "lat": 48.320092,
+      "lon": 25.9328864
+    },
+    {
+      "type": "node",
+      "id": 410058944,
+      "lat": 48.3201776,
+      "lon": 25.9330323
+    },
+    {
+      "type": "node",
+      "id": 410058945,
+      "lat": 48.3198694,
+      "lon": 25.9335043
+    },
+    {
+      "type": "node",
+      "id": 410058946,
+      "lat": 48.3199208,
+      "lon": 25.9335902
+    },
+    {
+      "type": "node",
+      "id": 410058947,
+      "lat": 48.3204401,
+      "lon": 25.9328091
+    },
+    {
+      "type": "node",
+      "id": 1919885349,
+      "lat": 48.320035,
+      "lon": 25.9332508
+    },
+    {
+      "type": "node",
+      "id": 1919885350,
+      "lat": 48.3200982,
+      "lon": 25.9333234
+    },
+    {
+      "type": "node",
+      "id": 8174270333,
+      "lat": 48.3265469,
+      "lon": 25.9365723
+    },
+    {
+      "type": "node",
+      "id": 8174270338,
+      "lat": 48.3260012,
+      "lon": 25.9350917
+    },
+    {
+      "type": "node",
+      "id": 8174270339,
+      "lat": 48.3265113,
+      "lon": 25.935156
+    },
+    {
+      "type": "node",
+      "id": 8174270340,
+      "lat": 48.3267377,
+      "lon": 25.9351453
+    },
+    {
+      "type": "node",
+      "id": 8174270341,
+      "lat": 48.3268055,
+      "lon": 25.935089
+    },
+    {
+      "type": "node",
+      "id": 8174270342,
+      "lat": 48.3268893,
+      "lon": 25.9349334
+    },
+    {
+      "type": "node",
+      "id": 8174270343,
+      "lat": 48.3270427,
+      "lon": 25.9345955
+    },
+    {
+      "type": "node",
+      "id": 8174270347,
+      "lat": 48.3271158,
+      "lon": 25.9349281
+    },
+    {
+      "type": "node",
+      "id": 8174270348,
+      "lat": 48.3272585,
+      "lon": 25.9360345
+    },
+    {
+      "type": "node",
+      "id": 1088365238,
+      "lat": 48.3301146,
+      "lon": 25.9414683
+    },
+    {
+      "type": "node",
+      "id": 1088365244,
+      "lat": 48.3300772,
+      "lon": 25.9415454
+    },
+    {
+      "type": "node",
+      "id": 1088365251,
+      "lat": 48.3301579,
+      "lon": 25.941634
+    },
+    {
+      "type": "node",
+      "id": 1088365259,
+      "lat": 48.3301953,
+      "lon": 25.9415569
+    },
+    {
+      "type": "node",
+      "id": 8234208013,
+      "lat": 48.3301392,
+      "lon": 25.9416135
+    },
+    {
+      "type": "node",
+      "id": 8234208014,
+      "lat": 48.3300983,
+      "lon": 25.9415686
+    },
+    {
+      "type": "node",
+      "id": 9351408475,
+      "lat": 48.5029752,
+      "lon": 25.6921023
+    },
+    {
+      "type": "node",
+      "id": 9351408476,
+      "lat": 48.5024176,
+      "lon": 25.691678
+    },
+    {
+      "type": "node",
+      "id": 9351408480,
+      "lat": 48.5024847,
+      "lon": 25.6919789
+    },
+    {
+      "type": "node",
+      "id": 9351408481,
+      "lat": 48.5025274,
+      "lon": 25.6922579
+    },
+    {
+      "type": "node",
+      "id": 9351408881,
+      "lat": 48.5028739,
+      "lon": 25.6915042
+    },
+    {
+      "type": "node",
+      "id": 9351408882,
+      "lat": 48.502602,
+      "lon": 25.6916141
+    },
+    {
+      "type": "node",
+      "id": 1589965644,
+      "lat": 48.6354035,
+      "lon": 25.7355937
+    },
+    {
+      "type": "node",
+      "id": 1589965651,
+      "lat": 48.6354139,
+      "lon": 25.7357443
+    },
+    {
+      "type": "node",
+      "id": 1589965656,
+      "lat": 48.6354609,
+      "lon": 25.7355846
+    },
+    {
+      "type": "node",
+      "id": 1589965657,
+      "lat": 48.6354666,
+      "lon": 25.7356667
+    },
+    {
+      "type": "node",
+      "id": 1589965664,
+      "lat": 48.6355468,
+      "lon": 25.735654
+    },
+    {
+      "type": "node",
+      "id": 1589965666,
+      "lat": 48.6355516,
+      "lon": 25.7357225
+    },
+    {
+      "type": "node",
+      "id": 1601021074,
+      "lat": 48.662652,
+      "lon": 25.721671
+    },
+    {
+      "type": "node",
+      "id": 1601021083,
+      "lat": 48.6627524,
+      "lon": 25.7220598
+    },
+    {
+      "type": "node",
+      "id": 1601021086,
+      "lat": 48.6627608,
+      "lon": 25.7216065
+    },
+    {
+      "type": "node",
+      "id": 1601021090,
+      "lat": 48.6628612,
+      "lon": 25.7219954
+    },
+    {
+      "type": "node",
+      "id": 3445054370,
+      "lat": 48.6604841,
+      "lon": 25.7235218
+    },
+    {
+      "type": "node",
+      "id": 3445054371,
+      "lat": 48.6604854,
+      "lon": 25.7235601
+    },
+    {
+      "type": "node",
+      "id": 3445054372,
+      "lat": 48.6604866,
+      "lon": 25.7234796
+    },
+    {
+      "type": "node",
+      "id": 3445054373,
+      "lat": 48.6604885,
+      "lon": 25.7235889
+    },
+    {
+      "type": "node",
+      "id": 3445054374,
+      "lat": 48.6604974,
+      "lon": 25.7234586
+    },
+    {
+      "type": "node",
+      "id": 3445054375,
+      "lat": 48.6605031,
+      "lon": 25.7236569
+    },
+    {
+      "type": "node",
+      "id": 3445054376,
+      "lat": 48.6605202,
+      "lon": 25.7234566
+    },
+    {
+      "type": "node",
+      "id": 3445054377,
+      "lat": 48.6605278,
+      "lon": 25.7237163
+    },
+    {
+      "type": "node",
+      "id": 3445054378,
+      "lat": 48.6605354,
+      "lon": 25.7234614
+    },
+    {
+      "type": "node",
+      "id": 3445054379,
+      "lat": 48.6605512,
+      "lon": 25.7237604
+    },
+    {
+      "type": "node",
+      "id": 3445054380,
+      "lat": 48.6605537,
+      "lon": 25.7234806
+    },
+    {
+      "type": "node",
+      "id": 3445054381,
+      "lat": 48.6605765,
+      "lon": 25.7237968
+    },
+    {
+      "type": "node",
+      "id": 3445054382,
+      "lat": 48.6605848,
+      "lon": 25.7235208
+    },
+    {
+      "type": "node",
+      "id": 3445054383,
+      "lat": 48.6605974,
+      "lon": 25.7238218
+    },
+    {
+      "type": "node",
+      "id": 3445054384,
+      "lat": 48.6606145,
+      "lon": 25.7238304
+    },
+    {
+      "type": "node",
+      "id": 3445054385,
+      "lat": 48.6606151,
+      "lon": 25.7235736
+    },
+    {
+      "type": "node",
+      "id": 3445054386,
+      "lat": 48.6606335,
+      "lon": 25.7236186
+    },
+    {
+      "type": "node",
+      "id": 3445054387,
+      "lat": 48.6606386,
+      "lon": 25.7238294
+    },
+    {
+      "type": "node",
+      "id": 3445054388,
+      "lat": 48.6606462,
+      "lon": 25.7236665
+    },
+    {
+      "type": "node",
+      "id": 3445054389,
+      "lat": 48.6606537,
+      "lon": 25.7238122
+    },
+    {
+      "type": "node",
+      "id": 3445054390,
+      "lat": 48.6606601,
+      "lon": 25.7237767
+    },
+    {
+      "type": "node",
+      "id": 3445054391,
+      "lat": 48.6606607,
+      "lon": 25.7237307
+    },
+    {
+      "type": "node",
+      "id": 7011088243,
+      "lat": 48.660498,
+      "lon": 25.7236402
+    },
+    {
+      "type": "node",
+      "id": 7011088244,
+      "lat": 48.6606003,
+      "lon": 25.723544
+    },
+    {
+      "type": "node",
+      "id": 6133685377,
+      "lat": 48.5508395,
+      "lon": 25.8596746
+    },
+    {
+      "type": "node",
+      "id": 6133685378,
+      "lat": 48.5504624,
+      "lon": 25.8595547
+    },
+    {
+      "type": "node",
+      "id": 6133685379,
+      "lat": 48.5504294,
+      "lon": 25.859792
+    },
+    {
+      "type": "node",
+      "id": 6133685380,
+      "lat": 48.5507482,
+      "lon": 25.8598933
+    },
+    {
+      "type": "node",
+      "id": 8112564775,
+      "lat": 48.5508262,
+      "lon": 25.8597702
+    },
+    {
+      "type": "node",
+      "id": 8112564776,
+      "lat": 48.5507679,
+      "lon": 25.8597516
+    },
+    {
+      "type": "node",
+      "id": 2435095447,
+      "lat": 48.560219,
+      "lon": 25.9709497
+    },
+    {
+      "type": "node",
+      "id": 2435095448,
+      "lat": 48.5602357,
+      "lon": 25.9709197
+    },
+    {
+      "type": "node",
+      "id": 2435095449,
+      "lat": 48.560281,
+      "lon": 25.9708379
+    },
+    {
+      "type": "node",
+      "id": 2435095450,
+      "lat": 48.5602956,
+      "lon": 25.9710466
+    },
+    {
+      "type": "node",
+      "id": 2435095451,
+      "lat": 48.560295,
+      "lon": 25.9708127
+    },
+    {
+      "type": "node",
+      "id": 2435095452,
+      "lat": 48.5603715,
+      "lon": 25.9709096
+    },
+    {
+      "type": "node",
+      "id": 3742358602,
+      "lat": 48.737638,
+      "lon": 25.3643712
+    },
+    {
+      "type": "node",
+      "id": 3742358604,
+      "lat": 48.7376697,
+      "lon": 25.3642474
+    },
+    {
+      "type": "node",
+      "id": 3742358606,
+      "lat": 48.7377705,
+      "lon": 25.3644493
+    },
+    {
+      "type": "node",
+      "id": 3742358607,
+      "lat": 48.7378022,
+      "lon": 25.3643254
+    },
+    {
+      "type": "node",
+      "id": 3034496761,
+      "lat": 48.6902213,
+      "lon": 25.4710473
+    },
+    {
+      "type": "node",
+      "id": 3034496763,
+      "lat": 48.6902402,
+      "lon": 25.4711371
+    },
+    {
+      "type": "node",
+      "id": 3034496764,
+      "lat": 48.6902617,
+      "lon": 25.4710875
+    },
+    {
+      "type": "node",
+      "id": 3034496765,
+      "lat": 48.6902701,
+      "lon": 25.4709349
+    },
+    {
+      "type": "node",
+      "id": 3034496766,
+      "lat": 48.6902716,
+      "lon": 25.4711684
+    },
+    {
+      "type": "node",
+      "id": 3034496767,
+      "lat": 48.6903419,
+      "lon": 25.4710064
+    },
+    {
+      "type": "node",
+      "id": 1601650329,
+      "lat": 48.6717216,
+      "lon": 25.719432
+    },
+    {
+      "type": "node",
+      "id": 1601650330,
+      "lat": 48.6717259,
+      "lon": 25.7196941
+    },
+    {
+      "type": "node",
+      "id": 1601650341,
+      "lat": 48.6720369,
+      "lon": 25.7194202
+    },
+    {
+      "type": "node",
+      "id": 1601650342,
+      "lat": 48.6720412,
+      "lon": 25.7196823
+    },
+    {
+      "type": "node",
+      "id": 1601671471,
+      "lat": 48.6849239,
+      "lon": 25.7717595
+    },
+    {
+      "type": "node",
+      "id": 1601671472,
+      "lat": 48.6849982,
+      "lon": 25.7716144
+    },
+    {
+      "type": "node",
+      "id": 1601671473,
+      "lat": 48.6850016,
+      "lon": 25.7718506
+    },
+    {
+      "type": "node",
+      "id": 1601671475,
+      "lat": 48.6850759,
+      "lon": 25.7717055
+    },
+    {
+      "type": "node",
+      "id": 5710760596,
+      "lat": 48.2938194,
+      "lon": 26.0225647
+    },
+    {
+      "type": "node",
+      "id": 5710760597,
+      "lat": 48.2939688,
+      "lon": 26.0228453
+    },
+    {
+      "type": "node",
+      "id": 5710760598,
+      "lat": 48.2939048,
+      "lon": 26.0229222
+    },
+    {
+      "type": "node",
+      "id": 5710760599,
+      "lat": 48.2937554,
+      "lon": 26.0226417
+    },
+    {
+      "type": "node",
+      "id": 5710760600,
+      "lat": 48.2936608,
+      "lon": 26.022013
+    },
+    {
+      "type": "node",
+      "id": 5710760601,
+      "lat": 48.2935844,
+      "lon": 26.0221045
+    },
+    {
+      "type": "node",
+      "id": 5710760602,
+      "lat": 48.2934047,
+      "lon": 26.0217657
+    },
+    {
+      "type": "node",
+      "id": 5710760603,
+      "lat": 48.2934811,
+      "lon": 26.0216742
+    },
+    {
+      "type": "node",
+      "id": 9218560005,
+      "lat": 48.3719364,
+      "lon": 26.0826614
+    },
+    {
+      "type": "node",
+      "id": 9218560006,
+      "lat": 48.3711916,
+      "lon": 26.0821813
+    },
+    {
+      "type": "node",
+      "id": 9218560007,
+      "lat": 48.3716513,
+      "lon": 26.0815215
+    },
+    {
+      "type": "node",
+      "id": 9218560008,
+      "lat": 48.3718259,
+      "lon": 26.0816073
+    },
+    {
+      "type": "node",
+      "id": 9218560009,
+      "lat": 48.3720914,
+      "lon": 26.081669
+    },
+    {
+      "type": "node",
+      "id": 9218560010,
+      "lat": 48.3722428,
+      "lon": 26.0816824
+    },
+    {
+      "type": "node",
+      "id": 9218560011,
+      "lat": 48.3723693,
+      "lon": 26.0816798
+    },
+    {
+      "type": "node",
+      "id": 4476533999,
+      "lat": 48.4223527,
+      "lon": 26.2685447
+    },
+    {
+      "type": "node",
+      "id": 4476534000,
+      "lat": 48.4222845,
+      "lon": 26.2685805
+    },
+    {
+      "type": "node",
+      "id": 4476534001,
+      "lat": 48.4223241,
+      "lon": 26.2687519
+    },
+    {
+      "type": "node",
+      "id": 4476534002,
+      "lat": 48.4223923,
+      "lon": 26.2687161
+    },
+    {
+      "type": "node",
+      "id": 2578645745,
+      "lat": 48.6149927,
+      "lon": 26.1745156
+    },
+    {
+      "type": "node",
+      "id": 2578645746,
+      "lat": 48.6148827,
+      "lon": 26.1743802
+    },
+    {
+      "type": "node",
+      "id": 2578645747,
+      "lat": 48.6148162,
+      "lon": 26.1745036
+    },
+    {
+      "type": "node",
+      "id": 2578645748,
+      "lat": 48.6149262,
+      "lon": 26.174639
+    },
+    {
+      "type": "node",
+      "id": 7453003803,
+      "lat": 48.6573986,
+      "lon": 26.539548
+    },
+    {
+      "type": "node",
+      "id": 7453003804,
+      "lat": 48.6574322,
+      "lon": 26.5396924
+    },
+    {
+      "type": "node",
+      "id": 7453003805,
+      "lat": 48.6575135,
+      "lon": 26.5396491
+    },
+    {
+      "type": "node",
+      "id": 7453003806,
+      "lat": 48.65748,
+      "lon": 26.5395047
+    },
+    {
+      "type": "node",
+      "id": 2577743212,
+      "lat": 48.4734799,
+      "lon": 26.8262827
+    },
+    {
+      "type": "node",
+      "id": 2577743215,
+      "lat": 48.4733411,
+      "lon": 26.8265563
+    },
+    {
+      "type": "node",
+      "id": 2577743218,
+      "lat": 48.4732576,
+      "lon": 26.82646
+    },
+    {
+      "type": "node",
+      "id": 2577743221,
+      "lat": 48.4733964,
+      "lon": 26.8261864
+    },
+    {
+      "type": "node",
+      "id": 2783305134,
+      "lat": 48.7648753,
+      "lon": 26.4587248
+    },
+    {
+      "type": "node",
+      "id": 2783305137,
+      "lat": 48.7649685,
+      "lon": 26.4589956
+    },
+    {
+      "type": "node",
+      "id": 2783305139,
+      "lat": 48.7649798,
+      "lon": 26.458642
+    },
+    {
+      "type": "node",
+      "id": 2783305143,
+      "lat": 48.765073,
+      "lon": 26.4589128
+    },
+    {
+      "type": "node",
+      "id": 3450098546,
+      "lat": 48.6965123,
+      "lon": 26.5734775
+    },
+    {
+      "type": "node",
+      "id": 3450098547,
+      "lat": 48.696445,
+      "lon": 26.5739925
+    },
+    {
+      "type": "node",
+      "id": 3450098548,
+      "lat": 48.696144,
+      "lon": 26.573955
+    },
+    {
+      "type": "node",
+      "id": 3450098549,
+      "lat": 48.696144,
+      "lon": 26.5735097
+    },
+    {
+      "type": "node",
+      "id": 3450098550,
+      "lat": 48.6960909,
+      "lon": 26.5732522
+    },
+    {
+      "type": "node",
+      "id": 3450098558,
+      "lat": 48.6943638,
+      "lon": 26.5807486
+    },
+    {
+      "type": "node",
+      "id": 3450098561,
+      "lat": 48.6939145,
+      "lon": 26.5805593
+    },
+    {
+      "type": "node",
+      "id": 3450098545,
+      "lat": 48.6965937,
+      "lon": 26.5733166
+    },
+    {
+      "type": "node",
+      "id": 3445560802,
+      "lat": 48.6982795,
+      "lon": 26.5776279
+    },
+    {
+      "type": "node",
+      "id": 3445560803,
+      "lat": 48.698247,
+      "lon": 26.5782811
+    },
+    {
+      "type": "node",
+      "id": 3445560804,
+      "lat": 48.6975799,
+      "lon": 26.5780408
+    },
+    {
+      "type": "node",
+      "id": 3445560805,
+      "lat": 48.6976206,
+      "lon": 26.5773691
+    },
+    {
+      "type": "node",
+      "id": 6648151868,
+      "lat": 48.6790745,
+      "lon": 26.5973906
+    },
+    {
+      "type": "node",
+      "id": 6648151869,
+      "lat": 48.6790291,
+      "lon": 26.5975383
+    },
+    {
+      "type": "node",
+      "id": 6648151870,
+      "lat": 48.6791205,
+      "lon": 26.5976029
+    },
+    {
+      "type": "node",
+      "id": 6648151871,
+      "lat": 48.679166,
+      "lon": 26.5974552
+    },
+    {
+      "type": "node",
+      "id": 7623334656,
+      "lat": 48.6791031,
+      "lon": 26.5975906
+    },
+    {
+      "type": "node",
+      "id": 3450098559,
+      "lat": 48.6941977,
+      "lon": 26.5816535
+    },
+    {
+      "type": "node",
+      "id": 3450098560,
+      "lat": 48.6937483,
+      "lon": 26.5814641
+    },
+    {
+      "type": "node",
+      "id": 3632898260,
+      "lat": 48.6993826,
+      "lon": 26.58965
+    },
+    {
+      "type": "node",
+      "id": 3632898261,
+      "lat": 48.6994169,
+      "lon": 26.5913791
+    },
+    {
+      "type": "node",
+      "id": 3632898262,
+      "lat": 48.6985649,
+      "lon": 26.5914191
+    },
+    {
+      "type": "node",
+      "id": 3632898263,
+      "lat": 48.6985517,
+      "lon": 26.5896874
+    },
+    {
+      "type": "node",
+      "id": 5183821996,
+      "lat": 48.708468,
+      "lon": 26.5906092
+    },
+    {
+      "type": "node",
+      "id": 5183821997,
+      "lat": 48.708471,
+      "lon": 26.5904633
+    },
+    {
+      "type": "node",
+      "id": 5183821998,
+      "lat": 48.7086705,
+      "lon": 26.5904727
+    },
+    {
+      "type": "node",
+      "id": 7457764115,
+      "lat": 48.7086676,
+      "lon": 26.5906185
+    },
+    {
+      "type": "node",
+      "id": 2783070026,
+      "lat": 48.7234255,
+      "lon": 26.6002457
+    },
+    {
+      "type": "node",
+      "id": 2783070027,
+      "lat": 48.7234444,
+      "lon": 26.6002891
+    },
+    {
+      "type": "node",
+      "id": 2783070028,
+      "lat": 48.7235237,
+      "lon": 26.5999247
+    },
+    {
+      "type": "node",
+      "id": 2783070031,
+      "lat": 48.7235421,
+      "lon": 26.5999152
+    },
+    {
+      "type": "node",
+      "id": 7454421329,
+      "lat": 48.7234327,
+      "lon": 26.6002732
+    },
+    {
+      "type": "node",
+      "id": 7454421330,
+      "lat": 48.7234236,
+      "lon": 26.6002085
+    },
+    {
+      "type": "node",
+      "id": 7454421331,
+      "lat": 48.7234269,
+      "lon": 26.6001643
+    },
+    {
+      "type": "node",
+      "id": 7454421332,
+      "lat": 48.7234353,
+      "lon": 26.6001158
+    },
+    {
+      "type": "node",
+      "id": 7454421333,
+      "lat": 48.7234481,
+      "lon": 26.6000666
+    },
+    {
+      "type": "node",
+      "id": 7454421334,
+      "lat": 48.7234646,
+      "lon": 26.6000199
+    },
+    {
+      "type": "node",
+      "id": 7454421335,
+      "lat": 48.7234836,
+      "lon": 26.5999789
+    },
+    {
+      "type": "node",
+      "id": 7454421336,
+      "lat": 48.7235037,
+      "lon": 26.5999465
+    },
+    {
+      "type": "node",
+      "id": 7454421337,
+      "lat": 48.7235578,
+      "lon": 26.5999185
+    },
+    {
+      "type": "node",
+      "id": 7454421338,
+      "lat": 48.7235695,
+      "lon": 26.5999345
+    },
+    {
+      "type": "node",
+      "id": 7454421339,
+      "lat": 48.7235767,
+      "lon": 26.5999619
+    },
+    {
+      "type": "node",
+      "id": 7454421340,
+      "lat": 48.7235786,
+      "lon": 26.5999991
+    },
+    {
+      "type": "node",
+      "id": 7454421341,
+      "lat": 48.7235753,
+      "lon": 26.6000434
+    },
+    {
+      "type": "node",
+      "id": 7454421342,
+      "lat": 48.7235669,
+      "lon": 26.6000918
+    },
+    {
+      "type": "node",
+      "id": 7454421343,
+      "lat": 48.7235541,
+      "lon": 26.600141
+    },
+    {
+      "type": "node",
+      "id": 7454421344,
+      "lat": 48.7235376,
+      "lon": 26.6001877
+    },
+    {
+      "type": "node",
+      "id": 7454421345,
+      "lat": 48.7235187,
+      "lon": 26.6002287
+    },
+    {
+      "type": "node",
+      "id": 7454421346,
+      "lat": 48.7234985,
+      "lon": 26.6002612
+    },
+    {
+      "type": "node",
+      "id": 7454421347,
+      "lat": 48.7234785,
+      "lon": 26.6002829
+    },
+    {
+      "type": "node",
+      "id": 7454421348,
+      "lat": 48.7234601,
+      "lon": 26.6002925
+    },
+    {
+      "type": "way",
+      "id": 397974228,
+      "nodes": [
+        4007448865,
+        4007448832,
+        4007448802,
+        4007448825
+      ]
+    },
+    {
+      "type": "way",
+      "id": 397974229,
+      "nodes": [
+        4007448825,
+        4007448835,
+        4007448879,
+        4007448865
+      ]
+    },
+    {
+      "type": "way",
+      "id": 830883884,
+      "nodes": [
+        7716917278,
+        7758147587,
+        7758147586,
+        7758147585,
+        7758138284,
+        7758138283,
+        7758138282,
+        7758138281,
+        7758138280,
+        7758138279,
+        7758138278,
+        7758138277,
+        7758138276,
+        7758138275,
+        7758138274,
+        7758138273,
+        7758138272,
+        7758138271,
+        7758138270,
+        7758138269,
+        7716917279
+      ]
+    },
+    {
+      "type": "way",
+      "id": 830883885,
+      "nodes": [
+        7716917279,
+        7758138268,
+        7716917278
+      ]
+    },
+    {
+      "type": "way",
+      "id": 501459430,
+      "nodes": [
+        4922654296,
+        4922654295,
+        4922654294,
+        4922654293,
+        4922654291
+      ]
+    },
+    {
+      "type": "way",
+      "id": 643959496,
+      "nodes": [
+        4922654291,
+        4922654296
+      ]
+    },
+    {
+      "type": "way",
+      "id": 906337405,
+      "nodes": [
+        8510361911,
+        8416417328,
+        8416417327
+      ]
+    },
+    {
+      "type": "way",
+      "id": 916259015,
+      "nodes": [
+        8510361915,
+        8510361914,
+        8510361913,
+        8510361912,
+        8510361911
+      ]
+    },
+    {
+      "type": "way",
+      "id": 916259016,
+      "nodes": [
+        8510361915,
+        8416417327
+      ]
+    },
+    {
+      "type": "way",
+      "id": 877992913,
+      "nodes": [
+        8168752916,
+        8168752900,
+        8168752915,
+        8168752914
+      ]
+    },
+    {
+      "type": "way",
+      "id": 877992914,
+      "nodes": [
+        8168752906,
+        8168752914
+      ]
+    },
+    {
+      "type": "way",
+      "id": 877992915,
+      "nodes": [
+        8168752906,
+        8168752916
+      ]
+    },
+    {
+      "type": "way",
+      "id": 878685528,
+      "nodes": [
+        8174270333,
+        8174270348
+      ]
+    },
+    {
+      "type": "way",
+      "id": 878685536,
+      "nodes": [
+        8174270348,
+        8174270347,
+        8174270343
+      ]
+    },
+    {
+      "type": "way",
+      "id": 878685537,
+      "nodes": [
+        8174270338,
+        8174270333
+      ]
+    },
+    {
+      "type": "way",
+      "id": 878685539,
+      "nodes": [
+        8174270343,
+        8174270342,
+        8174270341,
+        8174270340,
+        8174270339,
+        8174270338
+      ]
+    },
+    {
+      "type": "way",
+      "id": 1013587274,
+      "nodes": [
+        9351408882,
+        9351408881
+      ]
+    },
+    {
+      "type": "way",
+      "id": 1013587275,
+      "nodes": [
+        9351408481,
+        9351408475,
+        9351408881
+      ]
+    },
+    {
+      "type": "way",
+      "id": 1013587276,
+      "nodes": [
+        9351408481,
+        9351408480
+      ]
+    },
+    {
+      "type": "way",
+      "id": 1013587279,
+      "nodes": [
+        9351408480,
+        9351408476
+      ]
+    },
+    {
+      "type": "way",
+      "id": 1013587280,
+      "nodes": [
+        9351408882,
+        9351408476
+      ]
+    }
+  ]
+}

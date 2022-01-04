@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Chernivtsi gas</title>
+    </head>
+<body>
+    <h1>Chernivtsi gas</h1>
+    {% if stations %}
+    <ul>
+    {% for stations in stations %}
+        <li>
+        {{ stations.name }} : {{stations.distance}}
+        </li>
+    {% endfor %}
+    </ul>
+    {% endif %}
+</body>
+</html>
